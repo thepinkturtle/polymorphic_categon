@@ -1,0 +1,1804 @@
+Mark Otto, Wed Oct 29 11:56:48 2014 -0700 : Merge branch 'master' into v3.3.0
+Mark Otto, Wed Oct 29 11:13:25 2014 -0700 : grunt
+Mark Otto, Wed Oct 29 10:27:18 2014 -0700 : fixes #14913: badges in list group shouldn't have text shadow
+Mark Otto, Wed Oct 29 10:02:51 2014 -0700 : new homepage images
+Mark Otto, Wed Oct 29 09:54:43 2014 -0700 : grunt
+Mark Otto, Wed Oct 29 09:45:09 2014 -0700 : Merge branch 'master' into v3.3.0
+Mark Otto, Wed Oct 29 09:42:00 2014 -0700 : fixes #14911: bump dependencies to fix customizer text from being cut shor
+Mark Otto, Wed Oct 29 08:58:51 2014 -0700 : grunt
+Mark Otto, Wed Oct 29 08:56:20 2014 -0700 : version bump
+Mark Otto, Wed Oct 29 08:51:05 2014 -0700 : grunt
+Mark Otto, Tue Oct 28 23:08:42 2014 -0700 : grunt
+Mark Otto, Tue Oct 28 23:04:49 2014 -0700 : Merge pull request #14891 from twbs/cursor_var
+Mark Otto, Tue Oct 28 23:04:25 2014 -0700 : indentation and comment
+Mark Otto, Tue Oct 28 23:02:48 2014 -0700 : Merge pull request #14904 from twbs/customize-min-files
+Mark Otto, Tue Oct 28 22:57:56 2014 -0700 : change back to not allowed cursor
+Mark Otto, Tue Oct 28 22:57:26 2014 -0700 : Merge branch 'master' into cursor_var
+Mark Otto, Tue Oct 28 22:57:16 2014 -0700 : Reverts #14848, the overflow scrolling in the docs sidebar /cc @hnrch02
+Mark Otto, Tue Oct 28 17:41:25 2014 -0700 : Add labels explanation to readme
+Mark Otto, Tue Oct 28 17:21:04 2014 -0700 : Merge pull request #14885 from twbs/remove-baseurl
+Mark Otto, Mon Oct 27 20:45:46 2014 -0700 : swap cursor not-allow for default, and use a variable for all disabled elements
+Mark Otto, Mon Oct 27 20:37:17 2014 -0700 : grunt
+Mark Otto, Mon Oct 27 20:30:02 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Oct 27 15:36:26 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Oct 27 04:52:48 2014 -0700 : title change
+Mark Otto, Mon Oct 27 04:52:22 2014 -0700 : rename new navbar to just navbar
+Mark Otto, Mon Oct 27 04:52:07 2014 -0700 : drop the old navbar
+Mark Otto, Mon Oct 27 04:49:24 2014 -0700 : fix up the new navbar docs
+Mark Otto, Mon Oct 27 03:23:44 2014 -0700 : fix rounded corners on copy buttons
+Mark Otto, Mon Oct 27 03:23:30 2014 -0700 : compile the docs less as well
+Mark Otto, Mon Oct 27 03:07:34 2014 -0700 : switch to max-width on containers
+Mark Otto, Mon Oct 27 03:07:25 2014 -0700 : add height to new navbar examples to show behavior
+Mark Otto, Mon Oct 27 01:35:10 2014 -0700 : scrollspy maybe?
+Mark Otto, Mon Oct 27 01:35:02 2014 -0700 : grunt
+Mark Otto, Mon Oct 27 01:34:55 2014 -0700 : nav list update
+Mark Otto, Mon Oct 27 01:34:43 2014 -0700 : fix home nav
+Mark Otto, Sun Oct 26 23:07:20 2014 -0700 : grunt
+Mark Otto, Sun Oct 26 22:59:02 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sun Oct 26 22:57:38 2014 -0700 : grunt
+Mark Otto, Sun Oct 26 22:56:35 2014 -0700 : Merge pull request #14881 from bhamodi/white-space-optimization
+Mark Otto, Sun Oct 26 22:48:12 2014 -0700 : fix progress bar animated biznas
+Mark Otto, Sun Oct 26 22:34:08 2014 -0700 : no more mixin, use regular property
+Mark Otto, Sun Oct 26 22:33:35 2014 -0700 : rename that variable
+Mark Otto, Sun Oct 26 22:33:10 2014 -0700 : nuked that variable
+Mark Otto, Sun Oct 26 22:32:39 2014 -0700 : fix syntax
+Mark Otto, Sun Oct 26 22:31:59 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sun Oct 26 14:43:32 2014 -0700 : Merge branch 'master' into need-to-activate-animated-progressbar
+Mark Otto, Sun Oct 26 14:42:06 2014 -0700 : grunt
+Mark Otto, Sun Oct 26 14:17:14 2014 -0700 : Merge branch 'need-to-activate-animated-progressbar' of github.com:twbs/bootstrap into need-to-activate-animated-progressbar
+Mark Otto, Sat Oct 25 22:39:01 2014 -0700 : fix clipboard button and examples
+Mark Otto, Sat Oct 25 21:02:08 2014 -0700 : Merge pull request #14748 from twbs/apple-touch-icon
+Mark Otto, Sat Oct 25 20:49:10 2014 -0700 : new icon
+Mark Otto, Sat Oct 25 20:20:24 2014 -0700 : follow up fix for #14837 /cc @hnrch02
+Mark Otto, Sat Oct 25 19:43:05 2014 -0700 : Merge pull request #13824 from jsdf/node-requirable
+Mark Otto, Sat Oct 25 19:10:03 2014 -0700 : Fixes #14736: Reverts the remaining progress bar min value overrides from #12848
+Mark Otto, Sat Oct 25 18:57:27 2014 -0700 : Fixes #14806: reset the text-shadow in the themed buttons
+Mark Otto, Sat Oct 25 18:53:43 2014 -0700 : fix validation
+Mark Otto, Sat Oct 25 18:44:55 2014 -0700 : Fixes #14791: document dropdown dividers
+Mark Otto, Sat Oct 25 18:29:15 2014 -0700 : grunt
+Mark Otto, Sat Oct 25 18:28:07 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Oct 25 18:27:40 2014 -0700 : Fixes #14814: Use the link active bg variables for theme navbar gradients
+Mark Otto, Sat Oct 25 18:16:40 2014 -0700 : Merge branch 'pr/14801'
+Mark Otto, Sat Oct 25 18:13:50 2014 -0700 : grunt
+Mark Otto, Sat Oct 25 18:13:35 2014 -0700 : Fix up margins and unnest code
+Mark Otto, Sat Oct 25 17:54:06 2014 -0700 : grunt
+Mark Otto, Sat Oct 25 17:50:08 2014 -0700 : Merge pull request #14869 from lipis/glyphicon-eur
+Mark Otto, Sat Oct 25 17:49:13 2014 -0700 : Merge pull request #14871 from twbs/fix-#14810
+Mark Otto, Fri Oct 24 13:28:46 2014 -0700 : Merge pull request #14786 from andy-saint/links
+Mark Otto, Fri Oct 24 13:27:28 2014 -0700 : grunt
+Mark Otto, Fri Oct 24 13:26:05 2014 -0700 : 20px from bottom because the final frontier
+Mark Otto, Fri Oct 24 13:24:34 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Oct 24 13:24:28 2014 -0700 : guhrunt
+Mark Otto, Fri Oct 24 13:24:14 2014 -0700 : Merge pull request #14848 from knownasilya/patch-1
+Mark Otto, Fri Oct 24 12:09:44 2014 -0700 : Merge pull request #14857 from twbs/fix-14856
+Mark Otto, Thu Oct 2 22:21:02 2014 -0700 : grunt
+Mark Otto, Thu Oct 2 22:18:46 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Oct 2 22:18:39 2014 -0700 : Fixes #14251: Don't use hidden screen reader content in docs table so that Safari doesn't screw up overflow: hidden; content
+Mark Otto, Thu Oct 2 21:21:49 2014 -0700 : more grunt
+Mark Otto, Thu Oct 2 21:19:43 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Oct 2 21:19:20 2014 -0700 : Fixes #14711: Account for list groups in collapsing panels
+Mark Otto, Thu Oct 2 20:10:19 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Oct 2 20:09:23 2014 -0700 : fixes #14714: don't use specific value in buttons docs
+Mark Otto, Fri Sep 26 13:48:31 2014 -0700 : grunt
+Mark Otto, Fri Sep 26 13:47:26 2014 -0700 : Fixes #14682: Remove quotes reset on blockquote elements as it causes rendering bugs
+Mark Otto, Fri Sep 26 13:45:28 2014 -0700 : Fixes #14687: Include video element in responsive embed
+Mark Otto, Wed Sep 24 10:38:01 2014 -0700 : Merge pull request #14673 from twbs/restore_sr_friendly_collapse
+Mark Otto, Tue Sep 23 22:03:35 2014 -0700 : Merge pull request #14677 from twbs/bootlint-docs
+Mark Otto, Tue Sep 23 22:03:13 2014 -0700 : Merge pull request #14674 from twbs/fix-14478
+Mark Otto, Tue Sep 23 22:02:36 2014 -0700 : Merge pull request #14675 from twbs/bug-report-guidelines
+Mark Otto, Tue Sep 23 22:02:11 2014 -0700 : Merge pull request #14676 from twbs/mention-14598-more
+Mark Otto, Tue Sep 23 14:29:48 2014 -0700 : Add brief note about justified navs being unsupported to fix #14598
+Mark Otto, Tue Sep 23 13:29:19 2014 -0700 : Reverts 0ec05da0eea03849fc72bed84a2c7fe7be1de1b6 to bring back #14444 to fix #14348 (again)
+Mark Otto, Mon Sep 22 20:27:23 2014 -0700 : fixes #14654: callout for scrollspy-nav link
+Mark Otto, Mon Sep 22 14:56:35 2014 -0700 : Merge pull request #14667 from twbs/remove_translate3d
+Mark Otto, Mon Sep 22 14:27:13 2014 -0700 : grunt
+Mark Otto, Mon Sep 22 14:25:52 2014 -0700 : Merge branch 'master' into remove_translate3d
+Mark Otto, Mon Sep 22 14:17:54 2014 -0700 : Fixes #14227, #14603: Drop translate3d for translate on navbars to avoid iOS rendering problems and ensure a more predictable base styling
+Mark Otto, Sun Sep 21 16:04:37 2014 -0700 : Swap -small and -large variables for -sm and -lg
+Mark Otto, Thu Sep 18 19:15:01 2014 -0700 : Move text and background utilties from _type to _utilities
+Mark Otto, Thu Sep 18 19:11:47 2014 -0700 : grunt
+Mark Otto, Thu Sep 18 19:09:51 2014 -0700 : Fixes #14592: Add new variable for progress border radius
+Mark Otto, Thu Sep 18 19:00:30 2014 -0700 : grunt
+Mark Otto, Thu Sep 18 19:00:26 2014 -0700 : Fixes #14642: Add docs mention for blank checkboxes and radios
+Mark Otto, Thu Sep 18 18:33:52 2014 -0700 : grunt
+Mark Otto, Wed Sep 17 22:14:27 2014 -0700 : Rename .table-condensed to .table-sm
+Mark Otto, Wed Sep 17 22:00:12 2014 -0700 : G R U N T
+Mark Otto, Wed Sep 17 21:57:51 2014 -0700 : rename media query mixins to .media-*
+Mark Otto, Wed Sep 17 21:57:40 2014 -0700 : remove ' because lul less
+Mark Otto, Wed Sep 17 21:56:27 2014 -0700 : more media query mixins
+Mark Otto, Wed Sep 17 21:43:46 2014 -0700 : Use .clearfix mixin instead of overflow on examples
+Mark Otto, Wed Sep 17 20:11:07 2014 -0700 : ignore some files from jekyll compilation
+Mark Otto, Wed Sep 17 20:03:32 2014 -0700 : rewrite jumbotron less and make heading use a class
+Mark Otto, Wed Sep 17 20:03:19 2014 -0700 : add jumbotron and page-header to nav.yml
+Mark Otto, Wed Sep 17 18:10:28 2014 -0700 : Some secondary button border action
+Mark Otto, Wed Sep 17 15:21:31 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Wed Sep 17 11:28:24 2014 -0700 : Fixes #14628, #14629: Add note to docs about grunt docs command
+Mark Otto, Mon Sep 8 11:40:23 2014 -0700 : grunt
+Mark Otto, Mon Sep 8 11:08:35 2014 -0700 : Merge pull request #14566 from twbs/fixes_14542
+Mark Otto, Mon Sep 8 11:04:47 2014 -0700 : grunt
+Mark Otto, Mon Sep 8 11:03:00 2014 -0700 : Merge pull request #14564 from twbs/fixes_14557
+Mark Otto, Mon Sep 8 10:57:50 2014 -0700 : Fixes #14557: Reset the bottom margin on .form-group:last-child in .navbar-form to prevent extra spacing
+Mark Otto, Mon Sep 8 10:45:18 2014 -0700 : Merge pull request #14563 from twbs/fixes_14319
+Mark Otto, Mon Sep 8 10:29:45 2014 -0700 : Fixes #14319: Prevent jumbotron reflow by ensuring padding of .container isn't interferred with by .jumbotron side padding
+Mark Otto, Mon Sep 8 10:23:25 2014 -0700 : grunt
+Mark Otto, Sat Sep 6 21:25:33 2014 -0700 : Fixes #14545: Avoid strange formatting on vendor prefixing for placeholder
+Mark Otto, Sat Sep 6 21:21:13 2014 -0700 : Merge pull request #14546 from twbs/address-14541
+Mark Otto, Sat Sep 6 12:24:45 2014 -0700 : Merge pull request #14543 from twbs/validation-docs
+Mark Otto, Thu Sep 4 22:40:37 2014 -0700 : Merge pull request #14535 from gitname/patch-1
+Mark Otto, Thu Sep 4 19:06:01 2014 -0700 : Fixes #14437: Round the corners of table rows in panels as well as the cells
+Mark Otto, Thu Sep 4 16:48:27 2014 -0700 : Merge pull request #14531 from twbs/doc-14528
+Mark Otto, Mon Sep 1 12:48:19 2014 -0700 : Fixes #14443: Only transition what needs transitioning for thumbnails to avoid Safari/Chrome render bug
+Mark Otto, Fri Aug 29 11:45:09 2014 -0700 : Merge pull request #14482 from twbs/doc-14362
+Mark Otto, Thu Aug 28 17:22:08 2014 -0700 : grunt
+Mark Otto, Thu Aug 28 17:10:44 2014 -0700 : mention #14320 in browser bugs
+Mark Otto, Thu Aug 28 16:57:40 2014 -0700 : Merge pull request #14472 from mrduguo/master
+Mark Otto, Wed Aug 27 23:35:54 2014 -0700 : grunt
+Mark Otto, Wed Aug 27 23:34:46 2014 -0700 : Finish reverting #14444
+Mark Otto, Wed Aug 27 23:33:03 2014 -0700 : Fixes #14439: Add static tooltip example to docs
+Mark Otto, Wed Aug 27 23:31:34 2014 -0700 : Undo the collapse visibility changes since it breaks our collapse plugin
+Mark Otto, Wed Aug 27 23:17:37 2014 -0700 : Fixes #14329: Fixed list-groups nested inside of collapsing panels, from @apexskier
+Mark Otto, Wed Aug 27 23:01:58 2014 -0700 : Fixes #14337: Round .jumbotron corners within .container and .container-fluid
+Mark Otto, Wed Aug 27 22:53:21 2014 -0700 : Merge pull request #14444 from twbs/sr_friendly_hidden_content
+Mark Otto, Wed Aug 27 22:40:46 2014 -0700 : typo
+Mark Otto, Wed Aug 27 22:38:46 2014 -0700 : Merge branch 'master' into sr_friendly_hidden_content
+Mark Otto, Wed Aug 27 22:37:10 2014 -0700 : grunt
+Mark Otto, Wed Aug 27 22:30:53 2014 -0700 : Merge pull request #14452 from vsn4ik/update_print_less
+Mark Otto, Wed Aug 27 22:29:39 2014 -0700 : Merge pull request #14465 from kaime/master
+Mark Otto, Wed Aug 27 22:25:24 2014 -0700 : grunt
+Mark Otto, Sat Aug 23 13:46:28 2014 -0700 : grunt
+Mark Otto, Sat Aug 23 13:44:41 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Aug 23 13:43:41 2014 -0700 : Full grunt
+Mark Otto, Sat Aug 23 13:42:45 2014 -0700 : Fixes #14386: Reset font, text, and line-height properties in popovers
+Mark Otto, Sat Aug 23 13:39:10 2014 -0700 : Merge pull request #14408 from vsn4ik/dropdown_menu_disabled_style
+Mark Otto, Sat Aug 23 13:37:29 2014 -0700 : fixes #14425: remove invalid css property
+Mark Otto, Sat Aug 23 13:35:39 2014 -0700 : fixes #14441
+Mark Otto, Sat Aug 23 13:35:22 2014 -0700 : grunt
+Mark Otto, Sat Aug 23 13:31:56 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Aug 23 13:26:37 2014 -0700 : Fixes #13943 again: lighten links, and text, in navbar. Still not 100% compliant, but it's better.
+Mark Otto, Sat Aug 23 13:12:47 2014 -0700 : Merge pull request #14382 from vsn4ik/https_links_in_readme
+Mark Otto, Sat Aug 23 12:58:24 2014 -0700 : Merge pull request #14417 from twbs/fat-14282
+Mark Otto, Sat Aug 23 12:25:27 2014 -0700 : Fixes #14348: Add visibility styles to collapse and tab content to match .hidden
+Mark Otto, Sat Aug 23 12:21:17 2014 -0700 : Fixes #14440: Remove unused nav variable
+Mark Otto, Sat Aug 23 12:19:36 2014 -0700 : grunt
+Mark Otto, Thu Aug 14 14:16:55 2014 -0700 : missing nav link
+Mark Otto, Thu Aug 14 13:50:55 2014 -0700 : unfuck homepage nav links
+Mark Otto, Tue Aug 5 17:50:59 2014 -0700 : change value
+Mark Otto, Tue Aug 5 17:50:22 2014 -0700 : spacing
+Mark Otto, Tue Aug 5 17:49:22 2014 -0700 : remove that
+Mark Otto, Tue Aug 5 17:45:24 2014 -0700 : fuck around with responsive reflow table idea
+Mark Otto, Tue Aug 5 17:23:25 2014 -0700 : bigger images
+Mark Otto, Tue Aug 5 17:21:54 2014 -0700 : fix broke code block
+Mark Otto, Tue Aug 5 17:21:13 2014 -0700 : copy and remove rogue p tag
+Mark Otto, Tue Aug 5 17:19:43 2014 -0700 : fix nav link
+Mark Otto, Tue Aug 5 17:19:12 2014 -0700 : move license and translations to about section
+Mark Otto, Tue Aug 5 17:17:00 2014 -0700 : space out consecutive navs better
+Mark Otto, Tue Aug 5 17:16:28 2014 -0700 : copy on badges
+Mark Otto, Tue Aug 5 17:12:24 2014 -0700 : cards
+Mark Otto, Mon Aug 4 15:36:41 2014 -0700 : rename imported files to preface with underscore; rerun grunt dist
+Mark Otto, Mon Aug 4 15:17:43 2014 -0700 : comment out firefox specific code for linter to parse fully
+Mark Otto, Mon Aug 4 15:09:23 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Mon Aug 4 14:05:12 2014 -0700 : grunt
+Mark Otto, Mon Aug 4 10:14:11 2014 -0700 : unfuck all that because lol dependencies
+Mark Otto, Mon Aug 4 10:01:20 2014 -0700 : fixes #14310: reset .active as well for button links
+Mark Otto, Sun Aug 3 22:12:52 2014 -0700 : Merge pull request #14311 from hnrch02/autoprefixer-for-13074
+Mark Otto, Sun Aug 3 16:58:59 2014 -0700 : fix ads text
+Mark Otto, Sun Aug 3 16:23:32 2014 -0700 : fix sidebar again
+Mark Otto, Sun Aug 3 16:18:41 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sat Aug 2 21:16:32 2014 -0700 : Fixes #14234: Reset the hack IE8-10 with another hack just for IE11 for temporal inputs and line-height
+Mark Otto, Sat Aug 2 19:05:46 2014 -0700 : Fixes #14251: Remove the -webkit-overflow-scrolling to prevent Safari from screwing up widths
+Mark Otto, Sat Aug 2 18:46:11 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sat Aug 2 18:41:00 2014 -0700 : grunt
+Mark Otto, Sat Aug 2 18:40:21 2014 -0700 : Merge pull request #13074 from haydenbleasel/master
+Mark Otto, Sat Aug 2 18:30:59 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sat Aug 2 14:49:48 2014 -0700 : Fixes #14296: document a table caption example
+Mark Otto, Sat Aug 2 13:55:02 2014 -0700 : Fixes #14253: Add borders for tables that follow bodies in panels
+Mark Otto, Sat Aug 2 13:05:11 2014 -0700 : Fixes #13202: Always use overflow: auto; on .table-responsive to prevent content breaking out of containers
+Mark Otto, Sun Jul 27 09:35:16 2014 -0700 : Fixes #14213: Rouge 1.6.1
+Mark Otto, Wed Jul 23 21:03:46 2014 -0700 : Fixes #14142: Adding horizontal padding to captions in tables in panels.
+Mark Otto, Wed Jul 23 21:00:48 2014 -0700 : unfuck those dropdowns
+Mark Otto, Wed Jul 23 20:54:07 2014 -0700 : Fixes #14221: Make .form-control-static work in inline forms as well
+Mark Otto, Wed Jul 23 20:50:00 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jul 23 20:49:47 2014 -0700 : Fixes #14168: bold nested kbd elements
+Mark Otto, Wed Jul 23 20:39:40 2014 -0700 : Merge pull request #14166 from hnrch02/docs-cleanup
+Mark Otto, Wed Jul 23 20:32:05 2014 -0700 : Fixes #12669 again: Redeclare the line-heights again for date inputs in IE8+
+Mark Otto, Mon Jul 21 12:46:10 2014 -0700 : Merge pull request #14203 from twbs/fix-14202
+Mark Otto, Tue Jul 15 09:28:48 2014 -0700 : Another new js bin link
+Mark Otto, Tue Jul 15 09:09:40 2014 -0700 : don't include local jquery
+Mark Otto, Mon Jul 14 09:14:59 2014 -0700 : add css resets outline section to scaffolding docs
+Mark Otto, Mon Jul 14 09:14:48 2014 -0700 : markdownify jumbotron docs
+Mark Otto, Mon Jul 14 09:14:41 2014 -0700 : markdownify label docs
+Mark Otto, Mon Jul 14 09:14:31 2014 -0700 : example page header
+Mark Otto, Mon Jul 14 09:05:27 2014 -0700 : link the new navbar examples
+Mark Otto, Mon Jul 14 09:05:21 2014 -0700 : new fixed navbar example
+Mark Otto, Mon Jul 14 09:05:12 2014 -0700 : new navbar example
+Mark Otto, Mon Jul 14 09:04:47 2014 -0700 : grunt dist
+Mark Otto, Mon Jul 14 09:04:10 2014 -0700 : simplify jumbotron styles, rem-ify padding
+Mark Otto, Mon Jul 14 09:03:21 2014 -0700 : fixed pos utility class
+Mark Otto, Mon Jul 14 08:48:33 2014 -0700 : new navbar tweaks
+Mark Otto, Mon Jul 14 08:48:26 2014 -0700 : experiment with more utilities
+Mark Otto, Mon Jul 14 08:35:33 2014 -0700 : nav update
+Mark Otto, Mon Jul 14 08:34:56 2014 -0700 : move scaffolding stuff back to layout once more, split off the type docs to typography section
+Mark Otto, Mon Jul 14 08:22:33 2014 -0700 : move containers to layout section
+Mark Otto, Mon Jul 14 00:23:46 2014 -0700 : inverse table idea
+Mark Otto, Sun Jul 13 23:45:34 2014 -0700 : table headers
+Mark Otto, Sun Jul 13 23:33:54 2014 -0700 : new navbar ideas
+Mark Otto, Sun Jul 13 13:50:35 2014 -0700 : more rems
+Mark Otto, Sun Jul 13 13:31:07 2014 -0700 : transitions mixin and global variable, add it to buttons
+Mark Otto, Sun Jul 13 13:19:58 2014 -0700 : more docs rems, some mixin optimization
+Mark Otto, Sun Jul 13 12:47:24 2014 -0700 : more rems in docs
+Mark Otto, Sun Jul 13 12:38:06 2014 -0700 : rem-ify the footer and masthead
+Mark Otto, Sun Jul 13 12:15:14 2014 -0700 : rem-ify homepage icon
+Mark Otto, Sun Jul 13 12:10:54 2014 -0700 : yellow var
+Mark Otto, Sun Jul 13 12:04:05 2014 -0700 : vars
+Mark Otto, Sun Jul 13 12:00:17 2014 -0700 : nesting docs css
+Mark Otto, Sun Jul 13 01:45:26 2014 -0700 : fix header
+Mark Otto, Sun Jul 13 01:43:26 2014 -0700 : markdownify browser bugs, add config vars for shorthand urls
+Mark Otto, Sun Jul 13 01:38:08 2014 -0700 : about header
+Mark Otto, Sun Jul 13 01:38:03 2014 -0700 : fix paths
+Mark Otto, Sun Jul 13 01:35:29 2014 -0700 : markdownify about docs
+Mark Otto, Sun Jul 13 01:30:32 2014 -0700 : layout section
+Mark Otto, Sun Jul 13 01:28:19 2014 -0700 : move media to layout
+Mark Otto, Sun Jul 13 01:26:48 2014 -0700 : fix helpers
+Mark Otto, Sun Jul 13 01:26:44 2014 -0700 : fix nav
+Mark Otto, Sun Jul 13 01:23:34 2014 -0700 : markdownify button group
+Mark Otto, Sun Jul 13 01:23:29 2014 -0700 : markdownify button dropdowns
+Mark Otto, Sun Jul 13 01:17:54 2014 -0700 : markdownify responsive embed
+Mark Otto, Sun Jul 13 01:17:50 2014 -0700 : markdownify pagination
+Mark Otto, Sun Jul 13 01:17:46 2014 -0700 : markdownify page header
+Mark Otto, Sun Jul 13 01:12:11 2014 -0700 : markdownify media
+Mark Otto, Sun Jul 13 01:12:06 2014 -0700 : markdownify list group
+Mark Otto, Sun Jul 13 01:12:02 2014 -0700 : markdownify input group
+Mark Otto, Sun Jul 13 00:59:31 2014 -0700 : frontmatter that shit up
+Mark Otto, Sun Jul 13 00:57:32 2014 -0700 : fix nav
+Mark Otto, Sun Jul 13 00:57:28 2014 -0700 : move typography
+Mark Otto, Sun Jul 13 00:54:34 2014 -0700 : markdownify js popovers
+Mark Otto, Sun Jul 13 00:54:29 2014 -0700 : markdownify js modal
+Mark Otto, Sun Jul 13 00:54:26 2014 -0700 : markdownify js dropdowns
+Mark Otto, Sun Jul 13 00:54:21 2014 -0700 : markdownify js collapse
+Mark Otto, Sun Jul 13 00:54:14 2014 -0700 : markdownify js carousel
+Mark Otto, Sun Jul 13 00:54:10 2014 -0700 : markdownify js buttons
+Mark Otto, Sun Jul 13 00:53:59 2014 -0700 : markdownify js alerts
+Mark Otto, Sun Jul 13 00:29:43 2014 -0700 : markdownify affix docs
+Mark Otto, Sun Jul 13 00:23:09 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sun Jul 13 00:08:25 2014 -0700 : typos
+Mark Otto, Sat Jul 12 18:11:07 2014 -0700 : grunt some more things, rebuild customizer nav
+Mark Otto, Sat Jul 12 18:06:26 2014 -0700 : grunt
+Mark Otto, Sat Jul 12 17:59:02 2014 -0700 : Fixes #14074: Make open dropdown nav links in navbar use gradients
+Mark Otto, Sat Jul 12 17:56:30 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sat Jul 12 17:53:31 2014 -0700 : Fixes #14133
+Mark Otto, Sat Jul 12 17:51:57 2014 -0700 : Fixes #14132: add .alert-dismissible to docs examples
+Mark Otto, Sat Jul 12 17:26:43 2014 -0700 : Use bootstrapcdn links
+Mark Otto, Sat Jul 12 17:23:51 2014 -0700 : New Android select example
+Mark Otto, Sat Jul 12 16:17:06 2014 -0700 : Merge pull request #14111 from hnrch02/bug-report-template
+Mark Otto, Sat Jul 12 16:15:45 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Sat Jul 12 15:55:15 2014 -0700 : Fixes #14095: Add basic styling for captions, which we've for some reason been missing all this time.
+Mark Otto, Sat Jul 12 15:47:42 2014 -0700 : grunt
+Mark Otto, Sat Jul 12 15:43:49 2014 -0700 : Merge pull request #14104 from KyleMit/add-pointer-events
+Mark Otto, Sat Jul 12 15:37:13 2014 -0700 : grunt
+Mark Otto, Sat Jul 12 15:36:08 2014 -0700 : code guide, fixes #14126
+Mark Otto, Sat Jul 12 15:22:41 2014 -0700 : Fixes #13974, #14123: Remove translate3d repaint performance enhancement for text rendering and position wonkiness
+Mark Otto, Sat Jul 12 15:16:43 2014 -0700 : Fixes #14116: Use <button> elements over empty anchors
+Mark Otto, Sat Jul 12 15:13:18 2014 -0700 : Fixes #14107: Lighten placeholder text
+Mark Otto, Sat Jul 12 02:45:15 2014 -0700 : markdownify js overview
+Mark Otto, Sat Jul 12 02:42:23 2014 -0700 : markdownify tabs
+Mark Otto, Sat Jul 12 02:42:19 2014 -0700 : markdownify scrollspy
+Mark Otto, Sat Jul 12 02:34:21 2014 -0700 : mardownify js tooltips
+Mark Otto, Sat Jul 12 02:34:15 2014 -0700 : markdownify js transitions
+Mark Otto, Sat Jul 12 02:34:04 2014 -0700 : fix js nav
+Mark Otto, Sat Jul 12 02:25:07 2014 -0700 : restore docs and homepage navs
+Mark Otto, Sat Jul 12 02:20:15 2014 -0700 : frontmatter all that shit
+Mark Otto, Sat Jul 12 02:18:51 2014 -0700 : nuke the js.html page
+Mark Otto, Sat Jul 12 02:18:46 2014 -0700 : update page layouts
+Mark Otto, Sat Jul 12 02:17:42 2014 -0700 : move over all js pages
+Mark Otto, Sat Jul 12 02:14:22 2014 -0700 : nuke components.html
+Mark Otto, Sat Jul 12 02:13:54 2014 -0700 : nuke nav includes
+Mark Otto, Sat Jul 12 02:13:32 2014 -0700 : move responsive embed
+Mark Otto, Sat Jul 12 02:13:29 2014 -0700 : move pagination
+Mark Otto, Sat Jul 12 02:13:26 2014 -0700 : move page-header
+Mark Otto, Sat Jul 12 02:13:23 2014 -0700 : move navbar
+Mark Otto, Sat Jul 12 02:13:20 2014 -0700 : move media
+Mark Otto, Sat Jul 12 02:13:16 2014 -0700 : move list group
+Mark Otto, Sat Jul 12 02:13:13 2014 -0700 : move label
+Mark Otto, Sat Jul 12 02:13:09 2014 -0700 : move jumbotron
+Mark Otto, Sat Jul 12 02:13:05 2014 -0700 : move input group
+Mark Otto, Sat Jul 12 02:12:59 2014 -0700 : move button group
+Mark Otto, Sat Jul 12 02:12:55 2014 -0700 : move button dropdowns
+Mark Otto, Sat Jul 12 02:06:18 2014 -0700 : markdown for 3rd party
+Mark Otto, Sat Jul 12 02:06:13 2014 -0700 : markdown for template
+Mark Otto, Sat Jul 12 02:06:05 2014 -0700 : markdown for disable responsive
+Mark Otto, Sat Jul 12 01:52:44 2014 -0700 : move remaining getting started files to new folder
+Mark Otto, Sat Jul 12 01:23:13 2014 -0700 : unfuck jekyll
+Mark Otto, Sat Jul 12 01:23:06 2014 -0700 : Change `code` variables to match `pre`
+Mark Otto, Sat Jul 12 01:03:13 2014 -0700 : Rewrite breadcrumb in markdown
+Mark Otto, Sat Jul 12 00:57:09 2014 -0700 : Twerk nav
+Mark Otto, Sat Jul 12 00:54:37 2014 -0700 : Redo license FAQs in markdown
+Mark Otto, Sat Jul 12 00:54:29 2014 -0700 : Redo community section in markdown
+Mark Otto, Sat Jul 12 00:45:24 2014 -0700 : Nuke getting-started.html
+Mark Otto, Sat Jul 12 00:45:11 2014 -0700 : Redo browser/device support in markdown
+Mark Otto, Fri Jul 11 23:55:59 2014 -0700 : Redo translations in markdown
+Mark Otto, Fri Jul 11 23:46:47 2014 -0700 : Move accessibility to markdown
+Mark Otto, Fri Jul 11 23:19:49 2014 -0700 : nav
+Mark Otto, Fri Jul 11 23:19:46 2014 -0700 : make it a thing
+Mark Otto, Fri Jul 11 22:59:57 2014 -0700 : move responsive utils
+Mark Otto, Fri Jul 11 22:58:43 2014 -0700 : grid cleanup, nav rearranging
+Mark Otto, Fri Jul 11 22:46:10 2014 -0700 : rearrange a few things; drop compiled theme file
+Mark Otto, Fri Jul 11 22:35:10 2014 -0700 : grunt dist
+Mark Otto, Fri Jul 11 22:35:07 2014 -0700 : tweak docs sidenav styles
+Mark Otto, Fri Jul 11 22:34:54 2014 -0700 : update nav
+Mark Otto, Fri Jul 11 22:34:47 2014 -0700 : rearrange docs components
+Mark Otto, Fri Jul 11 15:45:11 2014 -0700 : Rewrite progress to markdown
+Mark Otto, Fri Jul 11 00:38:28 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Thu Jul 10 20:14:44 2014 -0700 : components headings
+Mark Otto, Thu Jul 10 20:02:47 2014 -0700 : move all css files over to components dir
+Mark Otto, Thu Jul 10 18:04:38 2014 -0700 : fix page titles, add about page nav list
+Mark Otto, Thu Jul 10 17:54:06 2014 -0700 : start markdowning getting started and moving things to separate pages
+Mark Otto, Thu Jul 10 10:23:15 2014 -0700 : jquery links
+Mark Otto, Thu Jul 10 02:24:13 2014 -0700 : rewrite getting started quick start and download in markdown
+Mark Otto, Thu Jul 10 00:52:10 2014 -0700 : docs change
+Mark Otto, Thu Jul 10 00:31:09 2014 -0700 : simplify example css
+Mark Otto, Thu Jul 10 00:24:39 2014 -0700 : fix about nav
+Mark Otto, Thu Jul 10 00:24:34 2014 -0700 : fix sidenav js
+Mark Otto, Thu Jul 10 00:01:26 2014 -0700 : nuke ie8 warning in tables
+Mark Otto, Thu Jul 10 00:01:03 2014 -0700 : code page ported to markdown
+Mark Otto, Wed Jul 9 23:24:17 2014 -0700 : really fix the docs
+Mark Otto, Wed Jul 9 23:22:43 2014 -0700 : remove outline
+Mark Otto, Wed Jul 9 23:20:33 2014 -0700 : nuke commented out sidenav; fix docs
+Mark Otto, Wed Jul 9 23:06:16 2014 -0700 : rewrite type docs in markdown
+Mark Otto, Wed Jul 9 22:19:23 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Wed Jul 9 22:00:07 2014 -0700 : Rewrite grid docs in markdown
+Mark Otto, Wed Jul 9 21:35:35 2014 -0700 : docs spacing for headings and leads
+Mark Otto, Wed Jul 9 21:35:27 2014 -0700 : rewrite overview in markdown
+Mark Otto, Wed Jul 9 21:18:00 2014 -0700 : docs design changes for markdown content
+Mark Otto, Wed Jul 9 21:17:40 2014 -0700 : markdown plugin around markdown includes
+Mark Otto, Wed Jul 9 21:17:22 2014 -0700 : rewrite images in markdown
+Mark Otto, Wed Jul 9 21:17:10 2014 -0700 : rewrite helpers in markdown
+Mark Otto, Wed Jul 9 21:15:57 2014 -0700 : move buttons, helpers, images to markdown
+Mark Otto, Wed Jul 9 20:01:55 2014 -0700 : nuke wells include
+Mark Otto, Wed Jul 9 20:00:22 2014 -0700 : plugins: add new example doodad hackery bullshitery and markdown block plugin for markdown includes
+Mark Otto, Wed Jul 9 16:08:18 2014 -0700 : Fix navs dropdown sections
+Mark Otto, Wed Jul 9 16:04:31 2014 -0700 : Refactor navs: new classes, remove separate pills & tabs files, drop justified nav because it never really worked
+Mark Otto, Wed Jul 9 13:58:27 2014 -0700 : Drop the deprecated .visible-* classes (because we replaced them with .visible-*-block, -inline-block, -inline
+Mark Otto, Wed Jul 9 13:54:32 2014 -0700 : Drop deprecated code from Less files
+Mark Otto, Wed Jul 9 13:51:49 2014 -0700 : more navs work
+Mark Otto, Wed Jul 9 13:51:20 2014 -0700 : remove deprecated warnings from docs
+Mark Otto, Wed Jul 9 10:52:48 2014 -0700 : disabled links part of the examples now
+Mark Otto, Wed Jul 9 10:48:58 2014 -0700 : Merge branch 'derp' into derp_navs
+Mark Otto, Wed Jul 9 10:47:53 2014 -0700 : Remove unused docs CSS
+Mark Otto, Wed Jul 9 10:45:57 2014 -0700 : no more iconography
+Mark Otto, Wed Jul 9 02:44:11 2014 -0700 : remove commented out docs js
+Mark Otto, Wed Jul 9 02:43:25 2014 -0700 : nuke ie8 responsive file warning js
+Mark Otto, Wed Jul 9 02:41:57 2014 -0700 : Nuke IE8 stuff from docs
+Mark Otto, Wed Jul 9 02:40:05 2014 -0700 : Docs: Refactor to use .less file instead, importing Bootstrap vars and mixins, and cleaning all the things up
+Mark Otto, Wed Jul 9 01:39:34 2014 -0700 : Refactor: drop all custom .progress-bar styles and replace with <progress> element
+Mark Otto, Wed Jul 9 00:15:52 2014 -0700 : nuke commented out css
+Mark Otto, Wed Jul 9 00:15:20 2014 -0700 : Badges, navs, and more
+Mark Otto, Tue Jul 8 21:19:14 2014 -0700 : Use .box-shadow() mixin so we can enable/disable them
+Mark Otto, Tue Jul 8 19:22:19 2014 -0700 : Drop: .opacity() mixin because we no longer support IE8
+Mark Otto, Tue Jul 8 19:20:45 2014 -0700 : Nuke all IE8 fallbacks and comments and hacks
+Mark Otto, Tue Jul 8 19:00:48 2014 -0700 : move tabs and pills to separate files with unique classes
+Mark Otto, Tue Jul 8 17:39:29 2014 -0700 : rems: table padding
+Mark Otto, Tue Jul 8 17:32:03 2014 -0700 : Nuke unused vars for panels wells and thumbnails
+Mark Otto, Tue Jul 8 17:30:11 2014 -0700 : Bring back button info
+Mark Otto, Tue Jul 8 17:14:14 2014 -0700 : .btn-default to .btn-secondary
+Mark Otto, Tue Jul 8 17:09:47 2014 -0700 : Revamp button: rename .btn-default to .btn-secondary, drop .btn-info
+Mark Otto, Tue Jul 8 17:00:20 2014 -0700 : nuke the sass docs
+Mark Otto, Tue Jul 8 16:54:57 2014 -0700 : drop the low percentages docs from progress bars
+Mark Otto, Tue Jul 8 16:54:32 2014 -0700 : docs header padding
+Mark Otto, Tue Jul 8 16:48:03 2014 -0700 : Update browser support section to remove glyphicons in tables; also remove ie8 and font-face section
+Mark Otto, Tue Jul 8 16:43:11 2014 -0700 : fix broken examples
+Mark Otto, Tue Jul 8 16:39:46 2014 -0700 : Fix navbar margins and update grid sidebar styles to match
+Mark Otto, Tue Jul 8 16:25:23 2014 -0700 : Add new grunt task for faster builds; nuke fonts
+Mark Otto, Tue Jul 8 16:25:01 2014 -0700 : Implement the new border-radius guard: only round things if global @enable-rounded == true
+Mark Otto, Tue Jul 8 16:03:31 2014 -0700 : clean up commented out docs css
+Mark Otto, Tue Jul 8 16:00:52 2014 -0700 : rems: update breadcrumbs to use new sizing; improve variables by renaming @breadcrumb-separator to @breadcrumb-divider; change up colors
+Mark Otto, Tue Jul 8 14:31:38 2014 -0700 : fix sidenav padding
+Mark Otto, Tue Jul 8 14:23:34 2014 -0700 : Refactor: drop .dropdown .caret for a generated caret using .dropdown-toggle:after
+Mark Otto, Tue Jul 8 14:23:01 2014 -0700 : remove glyphicons nav
+Mark Otto, Tue Jul 8 04:00:35 2014 -0700 : Drop: Thumbnails completely, as they'll be replaced
+Mark Otto, Tue Jul 8 03:56:47 2014 -0700 : Drop: Panels completely, as they'll be replaced
+Mark Otto, Tue Jul 8 03:51:32 2014 -0700 : derp
+Mark Otto, Tue Jul 8 03:48:56 2014 -0700 : clean up layout
+Mark Otto, Tue Jul 8 03:48:40 2014 -0700 : nuke the v2.x to v3.x migration docs
+Mark Otto, Tue Jul 8 03:46:17 2014 -0700 : link
+Mark Otto, Tue Jul 8 03:43:44 2014 -0700 : Update grid mixins section of the docs
+Mark Otto, Tue Jul 8 03:38:23 2014 -0700 : Overhaul semantic grid mixins
+Mark Otto, Tue Jul 8 03:14:27 2014 -0700 : rems: rework grid system vars to use rems/ems
+Mark Otto, Tue Jul 8 02:55:07 2014 -0700 : Drop: Device-named container variables since we alreay sort of deprecated them many releases ago
+Mark Otto, Tue Jul 8 02:40:35 2014 -0700 : Drop: deprecated .dropdown-menu.pull-right styles
+Mark Otto, Tue Jul 8 02:40:17 2014 -0700 : remove mention of fonts
+Mark Otto, Tue Jul 8 02:31:33 2014 -0700 : rems: input sizes
+Mark Otto, Tue Jul 8 02:27:12 2014 -0700 : Drop: @gray-base variable
+Mark Otto, Tue Jul 8 02:26:50 2014 -0700 : Clean up variable alignment and comments; change grays to new custom values
+Mark Otto, Tue Jul 8 02:04:48 2014 -0700 : Drop: all vendor prefix mixins because autoprefixer
+Mark Otto, Tue Jul 8 01:44:09 2014 -0700 : Fix input sizing and increase vertical padding on textareas
+Mark Otto, Tue Jul 8 01:28:15 2014 -0700 : Drop: @screen-table, @screen-desktop, @screen-lg-desktop, @screen-sm, @screen-md, @screen-lg
+Mark Otto, Tue Jul 8 01:25:23 2014 -0700 : Drop: @screen-xs, @screen-xs-min, and @screen-phone
+Mark Otto, Tue Jul 8 01:22:58 2014 -0700 : Drop: @dropdown-caret-color variable
+Mark Otto, Tue Jul 8 01:22:02 2014 -0700 : rems: buttons
+Mark Otto, Tue Jul 8 01:02:59 2014 -0700 : rems: code
+Mark Otto, Tue Jul 8 00:33:21 2014 -0700 : Drop Glyphicons
+Mark Otto, Tue Jul 8 00:25:13 2014 -0700 : drop wells
+Mark Otto, Tue Jul 8 00:10:31 2014 -0700 : restore font-weight and knock down font-size for .lead
+Mark Otto, Tue Jul 8 00:03:11 2014 -0700 : buttons docs tweak
+Mark Otto, Mon Jul 7 23:38:10 2014 -0700 : remove the less docs
+Mark Otto, Mon Jul 7 23:36:40 2014 -0700 : start the move to rems
+Mark Otto, Mon Jul 7 22:10:22 2014 -0700 : Merge branch 'master' into derp
+Mark Otto, Mon Jul 7 20:44:43 2014 -0700 : Fixes #14068: Update docs note for inline forms
+Mark Otto, Mon Jul 7 20:29:51 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jul 7 20:29:43 2014 -0700 : more accurate homepage title
+Mark Otto, Mon Jul 7 19:40:15 2014 -0700 : Cut down on homepage file size; reorg some docs CSS
+Mark Otto, Mon Jul 7 19:38:32 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jul 7 19:33:44 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jul 7 18:20:18 2014 -0700 : Switch to Rogue over Pygments for speeeeeed
+Mark Otto, Mon Jul 7 17:26:52 2014 -0700 : Part 2 for fixing #13996: Add a docs callout to help folks using SVG images in IE8-10
+Mark Otto, Mon Jul 7 16:59:59 2014 -0700 : Part 1 for fixing #13996: Revert the width: 100% \9; IE hack for SVG img-responsive
+Mark Otto, Mon Jul 7 00:59:51 2014 -0700 : grunt
+Mark Otto, Mon Jul 7 00:59:10 2014 -0700 : Merge pull request #14058 from twbs/btn_focus
+Mark Otto, Mon Jul 7 00:56:06 2014 -0700 : Follow up to #13907: Add .focus styles for buttons
+Mark Otto, Mon Jul 7 00:39:06 2014 -0700 : Merge pull request #14051 from loic/issue13325
+Mark Otto, Mon Jul 7 00:36:59 2014 -0700 : Merge pull request #13907 from twbs/fat-12145
+Mark Otto, Sun Jul 6 23:45:36 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Jul 6 23:43:43 2014 -0700 : Merge pull request #14029 from BBosman/touch-action
+Mark Otto, Sun Jul 6 18:39:37 2014 -0700 : Fixes #13746: Add docs section for brand image
+Mark Otto, Sun Jul 6 16:55:35 2014 -0700 : Fixes #13835: More explicitly document mobile dropdown menu dismissing behavior
+Mark Otto, Sun Jul 6 16:48:41 2014 -0700 : Fixes #14053: Don't show radio/checkbox in justified button groups
+Mark Otto, Sun Jul 6 16:37:42 2014 -0700 : Merge pull request #14021 from CFXd/add_collapsed_default_class_to_navbar_collapse_button
+Mark Otto, Sun Jul 6 15:35:24 2014 -0700 : grunt
+Mark Otto, Sun Jul 6 15:09:20 2014 -0700 : Fixes #13997: Move min-height for radio/checkbox to their inner label
+Mark Otto, Sun Jul 6 15:08:37 2014 -0700 : grunt
+Mark Otto, Sun Jul 6 15:08:33 2014 -0700 : jscs fix
+Mark Otto, Sat Jul 5 21:20:09 2014 -0700 : only ignore /.*
+Mark Otto, Sat Jul 5 20:17:57 2014 -0700 : grunt
+Mark Otto, Sat Jul 5 20:16:10 2014 -0700 : Merge pull request #13920 from AndreiRailean/patch-1
+Mark Otto, Sat Jul 5 20:10:44 2014 -0700 : grunt
+Mark Otto, Sat Jul 5 20:04:47 2014 -0700 : Merge pull request #13923 from ilikeprograms/gray-base-variable
+Mark Otto, Sat Jul 5 20:02:02 2014 -0700 : Fixes #13967: Don't reset the cite element's font-style
+Mark Otto, Sat Jul 5 20:01:18 2014 -0700 : Fixes #13953: Remove the progress bar min-width styles for low percentages to avoid jumping progress
+Mark Otto, Sat Jul 5 19:59:50 2014 -0700 : Fixes #13943: Lighten the navbar inverse link color more since our text contrast change in v3.2.0
+Mark Otto, Sat Jul 5 19:57:15 2014 -0700 : grunt
+Mark Otto, Sat Jul 5 18:51:47 2014 -0700 : Merge pull request #13464 from nickcolley/#13325-navbar-right-first
+Mark Otto, Thu Jul 3 09:57:36 2014 -0700 : Merge pull request #14030 from BBosman/double-cursor
+Mark Otto, Thu Jul 3 00:57:37 2014 -0700 : grunt
+Mark Otto, Thu Jul 3 00:55:32 2014 -0700 : Fixes #12738 again: use max-device-width instead of max-width for .navbar-collapse height in landscape devices
+Mark Otto, Wed Jul 2 23:44:56 2014 -0700 : grunt
+Mark Otto, Wed Jul 2 23:35:37 2014 -0700 : typo
+Mark Otto, Wed Jul 2 23:14:23 2014 -0700 : Fixes #13989: Don't extend the input sizes; manually chain the selectors
+Mark Otto, Wed Jul 2 22:55:01 2014 -0700 : Merge branch 'master' into pr/14005
+Mark Otto, Wed Jul 2 22:54:56 2014 -0700 : merge in and resolve conflicts
+Mark Otto, Wed Jul 2 22:12:39 2014 -0700 : fix new form validation
+Mark Otto, Wed Jul 2 22:06:32 2014 -0700 : Merge branch 'pr/14011'
+Mark Otto, Wed Jul 2 22:06:28 2014 -0700 : fix up examples
+Mark Otto, Mon Jun 30 11:39:37 2014 -0700 : Merge pull request #13993 from twbs/fix-13964
+Mark Otto, Sat Jun 28 21:43:04 2014 -0700 : Merge pull request #13954 from hnrch02/persist-preview-theme
+Mark Otto, Sat Jun 28 16:23:06 2014 -0700 : fixes #13968
+Mark Otto, Thu Jun 26 14:47:44 2014 -0700 : Merge pull request #13931 from ByScripts/patch-1
+Mark Otto, Thu Jun 26 11:46:45 2014 -0700 : Merge pull request #13939 from twbs/tree-shaking
+Mark Otto, Thu Jun 26 09:36:48 2014 -0700 : maxcdn urls
+Mark Otto, Thu Jun 26 09:13:24 2014 -0700 : bump to v3.2.0
+Mark Otto, Thu Jun 26 02:49:35 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Jun 26 02:49:21 2014 -0700 : grunt
+Mark Otto, Thu Jun 26 00:06:02 2014 -0700 : Merge pull request #13574 from twbs/reinstate-13470
+Mark Otto, Wed Jun 25 23:03:40 2014 -0700 : grunt
+Mark Otto, Wed Jun 25 22:29:02 2014 -0700 : Merge pull request #13905 from Jimtrim/patch-1
+Mark Otto, Wed Jun 25 16:57:22 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jun 25 16:56:36 2014 -0700 : fixes #13912: make radios/checkboxes work with inline forms again
+Mark Otto, Tue Jun 24 12:21:10 2014 -0700 : Merge pull request #13916 from glebm/variable-order
+Mark Otto, Mon Jun 23 12:59:46 2014 -0700 : Merge pull request #13882 from thomaswelton/issue-13713-use-variable-small
+Mark Otto, Mon Jun 23 10:42:13 2014 -0700 : Merge pull request #13900 from twbs/customize_on_your_own
+Mark Otto, Mon Jun 23 10:41:45 2014 -0700 : grid class inconsistency /cc @juthilo
+Mark Otto, Mon Jun 23 10:39:08 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jun 23 10:38:45 2014 -0700 : Fixes #13903: Restore side padding on .btn-block
+Mark Otto, Sun Jun 22 18:04:28 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Jun 22 18:04:19 2014 -0700 : new homepage expo features
+Mark Otto, Fri Jun 20 13:24:14 2014 -0700 : Fixes #13872 more: add overrides for lg and sm input modifiers
+Mark Otto, Thu Jun 19 19:54:25 2014 -0700 : tweak alert per #13875
+Mark Otto, Thu Jun 19 18:33:41 2014 -0700 : Fixes #13872: Always apply padding to .form-control-static for that vertical alignment
+Mark Otto, Thu Jun 19 18:15:42 2014 -0700 : formatting
+Mark Otto, Thu Jun 19 18:14:56 2014 -0700 : fixes #13881: restore existing striped progress bar behavior with theme styles
+Mark Otto, Thu Jun 19 15:25:50 2014 -0700 : grunt
+Mark Otto, Thu Jun 19 15:24:24 2014 -0700 : grunt dist
+Mark Otto, Thu Jun 19 15:22:49 2014 -0700 : ids over names
+Mark Otto, Thu Jun 19 12:45:57 2014 -0700 : Merge pull request #13866 from BBosman/ie8fontface
+Mark Otto, Thu Jun 19 02:18:50 2014 -0700 : Merge pull request #13865 from BBosman/deprecated
+Mark Otto, Thu Jun 19 02:02:23 2014 -0700 : Nuke equal height columns example; got a few bugs that make it not ready for prime time in v3.2
+Mark Otto, Wed Jun 18 23:50:16 2014 -0700 : grunt
+Mark Otto, Wed Jun 18 23:32:17 2014 -0700 : Merge pull request #13861 from twbs/new_striped_progress_bar_class
+Mark Otto, Wed Jun 18 23:21:44 2014 -0700 : lol words
+Mark Otto, Wed Jun 18 22:35:05 2014 -0700 : rewrite striped and active to deprecate the parent selectors, change the docs
+Mark Otto, Wed Jun 18 22:29:37 2014 -0700 : Merge branch 'master' into new_striped_progress_bar_class
+Mark Otto, Wed Jun 18 22:27:12 2014 -0700 : Merge pull request #13859 from twbs/skew_you
+Mark Otto, Wed Jun 18 22:24:56 2014 -0700 : grunt
+Mark Otto, Wed Jun 18 22:23:52 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jun 18 22:23:42 2014 -0700 : Merge pull request #13860 from twbs/fixes_13346
+Mark Otto, Wed Jun 18 22:23:31 2014 -0700 : grunt
+Mark Otto, Wed Jun 18 22:16:15 2014 -0700 : Fixes #13400, #13415: actually document the existing practice for links in panel headings
+Mark Otto, Wed Jun 18 21:58:29 2014 -0700 : fixes #13347: make striped progress bars its own class
+Mark Otto, Wed Jun 18 21:52:34 2014 -0700 : fixes #13346: add a variable for .dl-horizontal's offset
+Mark Otto, Wed Jun 18 21:26:53 2014 -0700 : change skew(x,y) to skewX skewY because mdn told me so
+Mark Otto, Wed Jun 18 19:50:53 2014 -0700 : Merge pull request #13857 from twbs/list_group_small
+Mark Otto, Wed Jun 18 19:49:44 2014 -0700 : Merge pull request #13851 from ahoereth/patch-1
+Mark Otto, Wed Jun 18 19:18:02 2014 -0700 : fix part of #13111: hide the docs nav on small and below devices
+Mark Otto, Wed Jun 18 19:14:26 2014 -0700 : fixes #13093: reset the background color and remove background image on disabled theme buttons
+Mark Otto, Wed Jun 18 18:47:32 2014 -0700 : fixes #13020: proper color for small/.small in list group headings
+Mark Otto, Wed Jun 18 18:22:11 2014 -0700 : grunt
+Mark Otto, Wed Jun 18 18:19:17 2014 -0700 : fixes #13021: add .form-group-sm/-lg
+Mark Otto, Wed Jun 18 17:34:09 2014 -0700 : fixes #10073: add width: 100%; for ie10 and below to size svg.img-responsive correctly
+Mark Otto, Wed Jun 18 15:46:38 2014 -0700 : grunt dist
+Mark Otto, Wed Jun 18 15:45:57 2014 -0700 : Merge pull request #13854 from ssorallen/gray-light-higher-contrast
+Mark Otto, Wed Jun 11 18:13:50 2014 -0700 : grunt dist
+Mark Otto, Wed Jun 11 09:27:07 2014 -0700 : Fixes #13453: add firefox table-border and tbody bug to wall of bugs
+Mark Otto, Wed Jun 11 09:18:08 2014 -0700 : Merge pull request #13791 from BBosman/justify
+Mark Otto, Tue Jun 10 23:15:09 2014 -0700 : grunt
+Mark Otto, Tue Jun 10 23:09:25 2014 -0700 : Merge pull request #13351 from Cecchi/nested-kbd
+Mark Otto, Tue Jun 10 23:06:25 2014 -0700 : fixes #13356: clarify use of clearfix on parents
+Mark Otto, Tue Jun 10 22:58:21 2014 -0700 : grunt
+Mark Otto, Tue Jun 10 22:56:38 2014 -0700 : Merge pull request #13671 from 04818419/text-transformation
+Mark Otto, Tue Jun 10 22:51:17 2014 -0700 : grunt
+Mark Otto, Tue Jun 10 22:49:23 2014 -0700 : Merge pull request #13687 from smmoosavi/patch-1
+Mark Otto, Tue Jun 10 22:47:25 2014 -0700 : grunt
+Mark Otto, Tue Jun 10 22:41:48 2014 -0700 : words
+Mark Otto, Tue Jun 10 22:39:27 2014 -0700 : docs callout for #13219
+Mark Otto, Tue Jun 10 21:57:34 2014 -0700 : Merge pull request #13783 from twbs/fat-13220
+Mark Otto, Tue Jun 10 21:47:51 2014 -0700 : homepage copy to fix #13733
+Mark Otto, Tue Jun 10 21:24:44 2014 -0700 : fixes #13775: tweak grid nesting docs about # of cols, change up example slightly
+Mark Otto, Tue Jun 10 21:20:34 2014 -0700 : New text align class, .text-nowrap, for preventing text from breaking to new lines. Applies it to the grid docs table.
+Mark Otto, Tue Jun 10 21:14:04 2014 -0700 : fix thumbnails docs
+Mark Otto, Tue Jun 10 20:50:58 2014 -0700 : Fixes #13548: Use position: absolute; to fix checkbox and radio line-height problems that were introduced after #13003
+Mark Otto, Tue Jun 10 20:17:22 2014 -0700 : grunt
+Mark Otto, Tue Jun 10 19:21:03 2014 -0700 : Merge pull request #13785 from twbs/fat-13609
+Mark Otto, Tue Jun 10 19:20:56 2014 -0700 : hidden and auto
+Mark Otto, Tue Jun 10 18:12:29 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Jun 10 18:11:26 2014 -0700 : grunt
+Mark Otto, Tue Jun 10 00:26:20 2014 -0700 : grunt for table change
+Mark Otto, Tue Jun 10 00:25:52 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Jun 10 00:24:23 2014 -0700 : Fixes #13616: Add custom gutter support to containers
+Mark Otto, Tue Jun 10 00:14:33 2014 -0700 : Merge pull request #13670 from nadangergeo/master
+Mark Otto, Mon Jun 9 23:36:41 2014 -0700 : Merge pull request #12690 from twbs/docs_zeroclipboard
+Mark Otto, Mon Jun 9 23:29:44 2014 -0700 : twerk copy
+Mark Otto, Mon Jun 9 23:14:00 2014 -0700 : Merge pull request #13771 from twbs/jekyll-2.x
+Mark Otto, Tue Jun 10 08:30:16 2014 +0300 : Refactor and restyle.
+Mark Otto, Mon Jun 9 22:25:24 2014 -0700 : grunt
+Mark Otto, Mon Jun 9 22:25:00 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jun 9 22:24:51 2014 -0700 : Fixes #13587: Switch to Kramdown for Markdown compiler in Jekyll
+Mark Otto, Mon Jun 9 21:56:45 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jun 9 21:45:55 2014 -0700 : fixes #13769
+Mark Otto, Mon Jun 9 21:35:05 2014 -0700 : Merge pull request #13768 from twbs/font_files_docs
+Mark Otto, Mon Jun 9 21:26:57 2014 -0700 : relative
+Mark Otto, Mon Jun 9 21:08:24 2014 -0700 : typo
+Mark Otto, Mon Jun 9 21:00:27 2014 -0700 : simpler and updated docs copy for icon font file paths
+Mark Otto, Sun Jun 8 23:09:06 2014 -0700 : change up the padding on bs-docs-header container to alleviate #13682
+Mark Otto, Sun Jun 8 23:02:16 2014 -0700 : Addresses part of #13643: Correct webkit-linear-gradient syntax in horizontal gradients
+Mark Otto, Sun Jun 8 16:54:05 2014 -0700 : remove max-width: 100%; from table and place it on .table
+Mark Otto, Sun Jun 8 16:53:14 2014 -0700 : Merge pull request #13707 from bcullman/bcullman-remove-table-max-width
+Mark Otto, Sun Jun 8 16:38:17 2014 -0700 : Merge pull request #13738 from thomaswelton/issue-13737-fix-ie11-rem-sizing
+Mark Otto, Sun Jun 8 16:18:09 2014 -0700 : Merge pull request #13189 from twbs/apple-touch-icon
+Mark Otto, Mon Jun 9 01:15:08 2014 +0300 : new icons
+Mark Otto, Sun Jun 8 14:08:06 2014 -0700 : fixes #13375
+Mark Otto, Sun Jun 8 13:57:44 2014 -0700 : Merge branch 'master' into pr/13736
+Mark Otto, Sun Jun 8 13:55:40 2014 -0700 : grunt
+Mark Otto, Sun Jun 8 13:53:53 2014 -0700 : Merge pull request #13735 from skhilko/master
+Mark Otto, Sun Jun 8 13:28:56 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Jun 8 13:28:45 2014 -0700 : fix nested containers (addresses some of #13682)
+Mark Otto, Sun Jun 8 11:23:20 2014 -0700 : Merge pull request #13542 from twbs/icon_paths
+Mark Otto, Sun Jun 8 11:19:35 2014 -0700 : grunt
+Mark Otto, Sun Jun 8 11:18:59 2014 -0700 : grunt
+Mark Otto, Sun Jun 8 11:14:57 2014 -0700 : Merge pull request #13649 from ItsJonQ/repaint-fixes-2
+Mark Otto, Sun Jun 8 11:05:39 2014 -0700 : Merge pull request #13745 from twbs/fix-13281
+Mark Otto, Sun Jun 8 10:51:32 2014 -0700 : fixes #13210: clean up tooltip example
+Mark Otto, Sun Jun 8 10:25:50 2014 -0700 : Merge pull request #13744 from twbs/fix-13650
+Mark Otto, Thu May 22 23:01:42 2014 -0700 : Merge branch 'master' into icon_paths
+Mark Otto, Thu May 22 21:48:56 2014 -0700 : Merge pull request #13651 from twbs/ios-temporal
+Mark Otto, Thu May 22 21:39:47 2014 -0700 : clarify
+Mark Otto, Thu May 22 21:39:37 2014 -0700 : grunt dist for docs
+Mark Otto, Thu May 22 21:34:49 2014 -0700 : don't change code bg on callouts
+Mark Otto, Thu May 22 21:34:24 2014 -0700 : more callout tweaks
+Mark Otto, Thu May 22 21:12:13 2014 -0700 : tighten up callouts and remove backgrounds
+Mark Otto, Thu May 22 20:57:10 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu May 22 20:14:32 2014 -0700 : clarify and danger-ify affix docs usage requirements, per #10235
+Mark Otto, Thu May 22 19:20:32 2014 -0700 : Merge pull request #13463 from twbs/docs-theme-toggler
+Mark Otto, Thu May 22 18:54:25 2014 -0700 : Merge branch 'master' into docs-theme-toggler
+Mark Otto, Thu May 22 18:42:21 2014 -0700 : Reset the padding on radio/checkbox labels in form-inline
+Mark Otto, Thu May 22 18:38:43 2014 -0700 : move it to the sidebar
+Mark Otto, Tue May 20 23:27:40 2014 -0700 : Merge branch 'master' into docs-theme-toggler
+Mark Otto, Tue May 20 23:21:12 2014 -0700 : Merge branch 'master' into icon_paths
+Mark Otto, Mon May 12 22:01:29 2014 -0700 : unfuck the gruntifle
+Mark Otto, Mon May 12 21:50:13 2014 -0700 : no more concurrency
+Mark Otto, Mon May 12 21:28:14 2014 -0700 : grunt
+Mark Otto, Mon May 12 21:19:01 2014 -0700 : grunt
+Mark Otto, Mon May 12 21:17:53 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon May 12 21:17:42 2014 -0700 : grunt for raw js
+Mark Otto, Mon May 12 21:15:27 2014 -0700 : grunt dist
+Mark Otto, Mon May 12 20:26:23 2014 -0700 : Merge branch 'master' into icon_paths
+Mark Otto, Mon May 12 20:26:01 2014 -0700 : grunt dist
+Mark Otto, Mon May 12 20:23:34 2014 -0700 : Merge pull request #13369 from armikbd/bootstrap-itsme
+Mark Otto, Mon May 12 20:14:39 2014 -0700 : remove the comment
+Mark Otto, Mon May 12 19:57:49 2014 -0700 : Merge branch 'master' into icon_paths
+Mark Otto, Mon May 12 19:56:29 2014 -0700 : nuke the rtl example
+Mark Otto, Mon May 12 19:55:58 2014 -0700 : nuke the rtl docs
+Mark Otto, Mon May 12 19:53:12 2014 -0700 : grunt
+Mark Otto, Mon May 12 19:48:04 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon May 12 19:47:53 2014 -0700 : nuke rtl
+Mark Otto, Sat May 10 13:31:18 2014 -0700 : cleanup
+Mark Otto, Sat May 10 12:41:01 2014 -0700 : Merge pull request #13549 from danielhusar/master
+Mark Otto, Thu May 8 15:41:08 2014 -0700 : Fixes #13478, reverts #10941
+Mark Otto, Wed May 7 23:37:41 2014 -0700 : Update .travis.yml
+Mark Otto, Wed May 7 21:30:22 2014 -0700 : Merge pull request #13531 from twbs/grunt-html-docs
+Mark Otto, Wed May 7 15:30:27 2014 -0700 : move rtl to getting started, per @cvrebert's feedback
+Mark Otto, Wed May 7 15:28:08 2014 -0700 : Merge pull request #13499 from twbs/clarify-rtl
+Mark Otto, Sun May 4 00:19:59 2014 -0700 : Merge pull request #13495 from twbs/android-firefox
+Mark Otto, Sat May 3 18:50:28 2014 -0700 : Merge pull request #13433 from watilde/fixed-navbar-radius-of-example-at-docs
+Mark Otto, Thu May 1 22:41:06 2014 -0700 : Merge pull request #13461 from patrickhlauke/docs-dropdown-sr-only
+Mark Otto, Wed Apr 30 19:48:22 2014 -0700 : Merge branch 'pr/13320'
+Mark Otto, Wed Apr 30 19:47:56 2014 -0700 : grunt dist
+Mark Otto, Wed Apr 30 19:47:50 2014 -0700 : explain
+Mark Otto, Wed Apr 30 19:36:55 2014 -0700 : Merge pull request #13328 from thebigredgeek/master
+Mark Otto, Wed Apr 30 19:35:47 2014 -0700 : grunt dist
+Mark Otto, Wed Apr 30 19:33:11 2014 -0700 : Merge pull request #13449 from sejr/master
+Mark Otto, Wed Apr 30 17:43:43 2014 -0700 : Merge pull request #11966 from colllin/noconflict
+Mark Otto, Wed Apr 30 17:26:37 2014 -0700 : Merge pull request #13437 from saas786/master
+Mark Otto, Thu Apr 24 18:59:21 2014 -0700 : Merge pull request #13176 from twbs/fat-13157
+Mark Otto, Thu Apr 24 18:50:30 2014 -0700 : Merge pull request #13390 from twbs/ie10-viewport-bug
+Mark Otto, Thu Apr 24 18:41:23 2014 -0700 : Merge pull request #13374 from Jakobovski/fix-issue-#13355
+Mark Otto, Thu Apr 17 01:08:54 2014 -0700 : fixes #13365: remove dupe css in grid example
+Mark Otto, Thu Apr 17 00:56:22 2014 -0700 : grunt dist
+Mark Otto, Tue Apr 8 23:59:17 2014 -0700 : grunt dist
+Mark Otto, Tue Apr 8 21:13:43 2014 -0700 : Merge pull request #13203 from twbs/equal-height-experiment
+Mark Otto, Tue Apr 8 21:07:05 2014 -0700 : the space between spaces
+Mark Otto, Tue Apr 8 21:04:02 2014 -0700 : add screenshot
+Mark Otto, Tue Apr 8 20:51:56 2014 -0700 : Merge branch 'master' into equal-height-experiment
+Mark Otto, Mon Apr 7 22:59:37 2014 -0700 : Fixes #13208: Drop <b> for <span> in code snippets and examples
+Mark Otto, Sun Apr 6 20:49:22 2014 -0700 : grunt dist
+Mark Otto, Sun Apr 6 20:37:34 2014 -0700 : Merge pull request #13242 from killthekitten/fix-carousel-controls
+Mark Otto, Sun Apr 6 20:16:56 2014 -0700 : Merge pull request #13284 from chasingtheflow/master
+Mark Otto, Wed Apr 2 23:48:55 2014 -0700 : Merge pull request #13217 from thedavidscherer/fix-13216
+Mark Otto, Mon Mar 31 21:12:38 2014 -0700 : Merge pull request #13241 from twbs/address-13240
+Mark Otto, Mon Mar 31 20:08:07 2014 -0700 : Merge pull request #13249 from twbs/slid-is-not-a-typo
+Mark Otto, Tue Mar 25 23:00:47 2014 -0700 : Document #13186
+Mark Otto, Mon Mar 24 23:57:38 2014 -0700 : cleanup svg
+Mark Otto, Mon Mar 24 23:29:11 2014 -0700 : fixes #13026: Document more Bootstrap components in the Theme and RTL examples
+Mark Otto, Mon Mar 24 21:16:07 2014 -0700 : grunt
+Mark Otto, Mon Mar 24 20:07:54 2014 -0700 : Fixes #13066: Add z-index to the form control feedback icons so input groups don't render on top of them
+Mark Otto, Mon Mar 24 20:02:56 2014 -0700 : Fixes #13037: add text-align: left; to prevent alignment change in dropdowns
+Mark Otto, Mon Mar 24 20:01:46 2014 -0700 : grunt
+Mark Otto, Mon Mar 24 19:57:55 2014 -0700 : Merge pull request #13013 from ogonkov/patch-1
+Mark Otto, Mon Mar 24 19:41:20 2014 -0700 : grunt
+Mark Otto, Mon Mar 24 19:31:12 2014 -0700 : grunt
+Mark Otto, Mon Mar 24 19:30:17 2014 -0700 : Merge branch 'master' into fat-9461
+Mark Otto, Mon Mar 24 19:26:41 2014 -0700 : Fixes #13141: Add a max-width: 100%; to label elements so IE8 wraps text
+Mark Otto, Mon Mar 24 19:13:29 2014 -0700 : Fixes #13158: add link to nonresponsive docs in the example
+Mark Otto, Mon Mar 24 19:09:30 2014 -0700 : grunt
+Mark Otto, Mon Mar 24 19:08:17 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Mar 24 19:08:05 2014 -0700 : Fixes #13079: Scope .open class in button variant mixin to immediate children
+Mark Otto, Sun Mar 23 11:41:28 2014 -0700 : Merge pull request #12328 from benogle/bo-tooltip-adjust
+Mark Otto, Thu Mar 20 14:06:02 2014 -0700 : Merge pull request #13137 from ZDroid/bad-st
+Mark Otto, Tue Mar 18 15:55:09 2014 -0700 : Merge pull request #13095 from twbs/translation_data
+Mark Otto, Tue Mar 18 13:01:50 2014 -0700 : nav cleanup and responsiveness
+Mark Otto, Mon Mar 17 02:03:16 2014 -0700 : revamp all the things
+Mark Otto, Sun Mar 16 20:46:00 2014 -0700 : grunt
+Mark Otto, Sun Mar 16 20:40:30 2014 -0700 : Update gruntfile to point to new customizer nav, run grunt
+Mark Otto, Sun Mar 16 20:38:12 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Mar 16 19:32:08 2014 -0700 : Rename and organize nav partials for cleaner file structure
+Mark Otto, Sun Mar 16 19:06:17 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Mar 16 19:03:53 2014 -0700 : Break up docs into includes
+Mark Otto, Sun Mar 16 15:54:28 2014 -0700 : Fixes #13055: Mention outdenting more
+Mark Otto, Sun Mar 16 15:42:25 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Mar 15 14:41:25 2014 -0700 : Merge pull request #13081 from ZDroid/blank
+Mark Otto, Sat Mar 15 14:39:56 2014 -0700 : relative not absolute
+Mark Otto, Wed Mar 12 15:58:19 2014 -0700 : Merge pull request #13039 from twbs/dropdown-pull-right-deprec
+Mark Otto, Wed Mar 12 10:18:07 2014 -0700 : Merge pull request #13024 from twbs/role-alert
+Mark Otto, Mon Mar 10 16:51:53 2014 -0700 : moar grunt
+Mark Otto, Mon Mar 10 16:43:57 2014 -0700 : remove comment
+Mark Otto, Mon Mar 10 16:43:01 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Mar 10 16:41:56 2014 -0700 : Fixes #13003: Move padding on radio and checkbox options from the surrounding div to the label to remove the no-click deadzone caused by negative margin
+Mark Otto, Mon Mar 10 16:36:34 2014 -0700 : Merge pull request #12998 from twbs/modular-the-mixins
+Mark Otto, Mon Mar 10 15:46:59 2014 -0700 : Merge pull request #13001 from ZDroid/title
+Mark Otto, Mon Mar 10 13:31:34 2014 -0700 : even more grunt
+Mark Otto, Mon Mar 10 13:21:56 2014 -0700 : Merge branch 'master' into modular-the-mixins
+Mark Otto, Mon Mar 10 00:10:07 2014 -0700 : words
+Mark Otto, Mon Mar 10 00:08:29 2014 -0700 : Merge branch 'master' into modular-the-mixins
+Mark Otto, Mon Mar 10 00:05:57 2014 -0700 : Formatting, comment consolidation, and line endings
+Mark Otto, Sun Mar 9 23:58:29 2014 -0700 : grunt
+Mark Otto, Sun Mar 9 23:57:31 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Mar 9 23:57:17 2014 -0700 : Merge pull request #12999 from ZDroid/outline-zero
+Mark Otto, Sun Mar 9 23:25:15 2014 -0700 : proper var
+Mark Otto, Sun Mar 9 22:48:57 2014 -0700 : Merge pull request #12204 from twbs/fix-8869
+Mark Otto, Sun Mar 9 22:38:13 2014 -0700 : Replace some images on the Carousel example with some base64 encoded 1x1 gifs
+Mark Otto, Sun Mar 9 22:28:29 2014 -0700 : ugh grunt
+Mark Otto, Sun Mar 9 22:19:02 2014 -0700 : moar grunt
+Mark Otto, Sun Mar 9 22:10:58 2014 -0700 : mo copy
+Mark Otto, Sun Mar 9 22:06:51 2014 -0700 : http://www.youtube.com/watch?v=AJWtLf4-WWs
+Mark Otto, Sun Mar 9 22:06:14 2014 -0700 : grunt
+Mark Otto, Sun Mar 9 22:06:12 2014 -0700 : Copy change
+Mark Otto, Sun Mar 9 22:01:38 2014 -0700 : Merge branch 'master' into fix-8869
+Mark Otto, Sun Mar 9 21:25:51 2014 -0700 : Fixes #12759
+Mark Otto, Sun Mar 9 20:45:32 2014 -0700 : Fixes #12738
+Mark Otto, Sun Mar 9 17:22:52 2014 -0700 : Fixes #12843: Scope label styles for horizontal forms to a media query so their narrow viewport display looks just like a normal form
+Mark Otto, Sun Mar 9 17:12:39 2014 -0700 : Fixes #12669: Properly reset line-height on date inputs for all sizes; Fix IE8+'s misaslignment of text within date inputs
+Mark Otto, Sun Mar 9 16:56:00 2014 -0700 : Merge pull request #12993 from twbs/mixin-table-of-contents
+Mark Otto, Sun Mar 9 16:50:30 2014 -0700 : Reorganize mixins and G R U N T
+Mark Otto, Sun Mar 9 16:16:02 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Mar 9 16:15:53 2014 -0700 : Fix bad grunt merge and then G R U N T
+Mark Otto, Sun Mar 9 16:11:04 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Mar 9 16:09:36 2014 -0700 : Reorder the Gruntfile a bit
+Mark Otto, Sun Mar 9 16:03:46 2014 -0700 : Fixes #12892: Link to one of the SO articles on Bootstrap modals and YouTube
+Mark Otto, Sun Mar 9 15:32:36 2014 -0700 : Moves IE8 justified button border mention to docs section, not the browser bugs page /cc @cvrebert
+Mark Otto, Sun Mar 9 15:19:26 2014 -0700 : Fixes #12487: Document required use of position relative for scrollspy
+Mark Otto, Sun Mar 9 14:49:52 2014 -0700 : Document shitty situation of multiple .navbar-right classes in #12951
+Mark Otto, Sun Mar 9 14:39:52 2014 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Mar 9 14:17:18 2014 -0700 : Document #12476 bug in the wall of bugs
+Mark Otto, Sun Mar 9 13:52:24 2014 -0700 : Merge pull request #12989 from twbs/bower_ignore
+Mark Otto, Sun Mar 9 13:50:55 2014 -0700 : grunt
+Mark Otto, Sun Mar 9 12:39:29 2014 -0700 : Merge pull request #12679 from twbs/sr-only-focusable
+Mark Otto, Sun Mar 9 12:32:13 2014 -0700 : Merge branch 'master' into sr-only-focusable
+Mark Otto, Sun Mar 9 12:31:42 2014 -0700 : Don't ignore every dot file in Bower
+Mark Otto, Sat Mar 8 21:05:23 2014 -0800 : grunt
+Mark Otto, Sat Mar 8 20:53:16 2014 -0800 : document position relative firefox bug; cleanup some stuff in the browser bugs page
+Mark Otto, Sat Mar 8 20:34:29 2014 -0800 : Merge branch 'master' into sr-only-focusable
+Mark Otto, Sat Mar 8 20:10:04 2014 -0800 : Merge pull request #12983 from twbs/fat-9836
+Mark Otto, Sat Mar 8 20:03:31 2014 -0800 : grunt
+Mark Otto, Sat Mar 8 19:38:17 2014 -0800 : Merge pull request #12982 from twbs/fat-9342
+Mark Otto, Sat Mar 8 19:32:40 2014 -0800 : grunt
+Mark Otto, Sat Mar 8 17:40:58 2014 -0800 : grunt dist
+Mark Otto, Sat Mar 8 17:11:48 2014 -0800 : Fix comment
+Mark Otto, Sat Mar 8 16:11:24 2014 -0800 : grunt
+Mark Otto, Sat Mar 8 15:36:07 2014 -0800 : Merge pull request #12976 from ZDroid/comment
+Mark Otto, Sat Mar 8 15:32:24 2014 -0800 : Fixes #12966: Ensure icon font vars are loaded into Customizer
+Mark Otto, Sat Mar 8 15:30:18 2014 -0800 : grunt
+Mark Otto, Sat Mar 8 15:08:36 2014 -0800 : Merge pull request #12980 from ZDroid/config-yml-quotes
+Mark Otto, Fri Mar 7 14:52:41 2014 -0800 : Merge pull request #12962 from BBosman/transitions-count
+Mark Otto, Fri Mar 7 14:41:55 2014 -0800 : Merge pull request #12969 from ZDroid/badge-mixin
+Mark Otto, Fri Mar 7 14:13:35 2014 -0800 : Merge pull request #12970 from ZDroid/package.json-pa
+Mark Otto, Fri Mar 7 14:12:48 2014 -0800 : Merge pull request #12971 from ZDroid/config-yml
+Mark Otto, Fri Mar 7 01:31:01 2014 -0800 : Merge pull request #12688 from twbs/document_popover_focus
+Mark Otto, Fri Mar 7 01:30:38 2014 -0800 : fix derped html
+Mark Otto, Fri Mar 7 01:30:28 2014 -0800 : Merge branch 'master' into document_popover_focus
+Mark Otto, Fri Mar 7 01:27:56 2014 -0800 : Merge pull request #12891 from ZDroid/bower-json-paths
+Mark Otto, Fri Mar 7 01:15:33 2014 -0800 : Merge pull request #12957 from BBosman/rename-mixin
+Mark Otto, Fri Mar 7 01:10:16 2014 -0800 : Merge branch 'master' into typography-example-updates
+Mark Otto, Fri Mar 7 01:08:29 2014 -0800 : G R U N T G R U N T
+Mark Otto, Fri Mar 7 00:50:28 2014 -0800 : G R U N T
+Mark Otto, Fri Mar 7 00:28:29 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Mar 7 00:26:38 2014 -0800 : G R U N T
+Mark Otto, Fri Mar 7 00:23:52 2014 -0800 : Merge branch 'master' into pr/12670
+Mark Otto, Fri Mar 7 00:23:22 2014 -0800 : grunt for days
+Mark Otto, Fri Mar 7 00:21:59 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Mar 7 00:19:26 2014 -0800 : Fixes #12937: Darken active button states just a smidge more
+Mark Otto, Thu Mar 6 23:58:04 2014 -0800 : Merge pull request #12739 from DaSchTour/twbs
+Mark Otto, Thu Mar 6 23:51:07 2014 -0800 : Comment for #12794
+Mark Otto, Thu Mar 6 23:45:28 2014 -0800 : Merge pull request #12794 from epidemian/required-radio-button-groups
+Mark Otto, Thu Mar 6 23:19:16 2014 -0800 : add responsive embed to customizer
+Mark Otto, Thu Mar 6 23:18:39 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Mar 6 23:18:13 2014 -0800 : Moving the embed to it's own CSS file, moving the docs to the Components page with an example, fixing a Glyhpicons list problem in the docs
+Mark Otto, Thu Mar 6 22:40:25 2014 -0800 : Merge branch 'master' into boulox-responsive-embed
+Mark Otto, Thu Mar 6 22:32:21 2014 -0800 : Fixes #12683: Remove the overflow: hidden; from the .panel-group > .panel because it apparently serves no purpose and cuts off nested dropdown menus.
+Mark Otto, Thu Mar 6 21:44:46 2014 -0800 : Merge branch 'master' into popovers-use-radii-var
+Mark Otto, Thu Mar 6 21:40:22 2014 -0800 : Rewrite the disabled list group items to simplify styles
+Mark Otto, Thu Mar 6 21:32:52 2014 -0800 : Merge branch 'master' into pr/12490
+Mark Otto, Thu Mar 6 21:26:48 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Mar 6 21:25:34 2014 -0800 : Fixes #12722: Fixes up responsive tables in print
+Mark Otto, Thu Mar 6 21:11:00 2014 -0800 : Merge pull request #12894 from lipis/patch-2
+Mark Otto, Thu Mar 6 20:39:19 2014 -0800 : Fixes #12824: Remove white-space: nowrap from code elements
+Mark Otto, Thu Mar 6 20:33:10 2014 -0800 : grunt
+Mark Otto, Thu Mar 6 20:27:22 2014 -0800 : Merge pull request #12924 from ahmadnassri/transition-timing-function-mixin
+Mark Otto, Tue Mar 4 22:42:13 2014 -0800 : Fixes #12901: Refactors list group active state for use on non-anchors
+Mark Otto, Tue Mar 4 16:56:35 2014 -0800 : nav
+Mark Otto, Tue Mar 4 16:56:09 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Mar 4 16:55:15 2014 -0800 : Fixes #12848: Account for and document progress bars at 0-3%
+Mark Otto, Tue Mar 4 16:19:30 2014 -0800 : clarify deprecation /cc @cvrebert
+Mark Otto, Tue Mar 4 15:16:38 2014 -0800 : Fixes #12697: Document readonly inputs
+Mark Otto, Tue Mar 4 14:48:52 2014 -0800 : docs for #12873
+Mark Otto, Tue Mar 4 14:35:23 2014 -0800 : grunt after merging #12917
+Mark Otto, Tue Mar 4 14:34:08 2014 -0800 : Merge pull request #12917 from 5im0n/master
+Mark Otto, Tue Mar 4 14:24:09 2014 -0800 : Grunt after merging #12863
+Mark Otto, Tue Mar 4 14:21:28 2014 -0800 : Merge pull request #12863 from Sojaner/master
+Mark Otto, Tue Mar 4 14:20:48 2014 -0800 : grunt
+Mark Otto, Tue Mar 4 14:12:57 2014 -0800 : Fixes #12868: Enables icon feedback on validation states for large/small inputs.
+Mark Otto, Tue Mar 4 13:54:56 2014 -0800 : Fixes #12913: Remove scoped media queries from custom xs grid mixins
+Mark Otto, Tue Mar 4 13:54:09 2014 -0800 : Fixes #12914: Darken immediate children hr elements in jumbotrons
+Mark Otto, Tue Mar 4 13:52:13 2014 -0800 : Fixes #12916: Don't let .lead resize on viewport change
+Mark Otto, Tue Mar 4 13:32:02 2014 -0800 : add svg logos to brand guidelines
+Mark Otto, Tue Mar 4 11:35:32 2014 -0800 : Merge pull request #12897 from avindra/patch-1
+Mark Otto, Tue Mar 4 11:32:40 2014 -0800 : Merge pull request #12840 from twbs/rtl_via_css_flip
+Mark Otto, Tue Mar 4 00:41:57 2014 -0800 : Merge branch 'master' into rtl_via_css_flip
+Mark Otto, Tue Mar 4 00:30:40 2014 -0800 : grunt
+Mark Otto, Tue Mar 4 00:27:08 2014 -0800 : Merge pull request #12745 from ronnyhaase/panel-vars
+Mark Otto, Mon Mar 3 23:50:28 2014 -0800 : fix nav
+Mark Otto, Mon Mar 3 23:50:04 2014 -0800 : Rename RTL files and add some basic docs
+Mark Otto, Mon Mar 3 22:49:43 2014 -0800 : Simplify gruntfile more to remove theme RTL
+Mark Otto, Mon Mar 3 21:56:40 2014 -0800 : grunt
+Mark Otto, Mon Mar 3 21:54:07 2014 -0800 : Don't RTL the theme file--no need
+Mark Otto, Mon Mar 3 21:52:56 2014 -0800 : Merge branch 'rtl_via_css_flip' of github.com:twbs/bootstrap into rtl_via_css_flip
+Mark Otto, Mon Mar 3 21:50:03 2014 -0800 : Merge branch 'master' into rtl_via_css_flip
+Mark Otto, Mon Mar 3 21:39:53 2014 -0800 : Fixes #12593: Add support for table bodies and table rows to the collapse plugin
+Mark Otto, Mon Mar 3 21:27:20 2014 -0800 : Merge pull request #12904 from twbs/keywords
+Mark Otto, Mon Mar 3 19:41:02 2014 -0800 : Merge pull request #12905 from twbs/buttons-migration
+Mark Otto, Mon Mar 3 14:18:22 2014 -0800 : Match docs description
+Mark Otto, Mon Mar 3 14:18:03 2014 -0800 : Match docs for description
+Mark Otto, Thu Feb 27 12:17:08 2014 -0800 : 100% less tumah
+Mark Otto, Thu Feb 27 12:12:44 2014 -0800 : Merge pull request #12855 from lipis/patch-1
+Mark Otto, Thu Feb 27 11:13:18 2014 -0800 : Merge pull request #12866 from twbs/sitemap
+Mark Otto, Thu Feb 27 11:08:24 2014 -0800 : Fixes #12851: it's not a tumah
+Mark Otto, Mon Feb 24 19:22:41 2014 -0800 : Use CSS Flip to generate RTL variation
+Mark Otto, Mon Feb 24 19:10:23 2014 -0800 : grunt dist
+Mark Otto, Mon Feb 24 15:41:31 2014 -0800 : Merge pull request #12837 from twbs/grid-docs
+Mark Otto, Sat Feb 22 22:46:03 2014 -0800 : Fixes #12822: Scope panel collapse styles to immediate panel bodies only
+Mark Otto, Sat Feb 22 14:19:00 2014 -0800 : Fixes #12808: Correct grid column values listed in Grid Options
+Mark Otto, Sat Feb 22 14:16:53 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Feb 22 14:16:11 2014 -0800 : Fixes #12801: Add padding to the bottom of .form-control-static to match height of standard form controls
+Mark Otto, Sat Feb 22 12:38:56 2014 -0800 : Update modals to use more consistent padding—modal body and footer now match modal header
+Mark Otto, Sat Feb 22 12:20:53 2014 -0800 : Merge branch 'master' into pr/12813
+Mark Otto, Sat Feb 22 12:13:11 2014 -0800 : Fixes #12756: Ensure horizontal dls are cleared by moving the clearfix out of the media query
+Mark Otto, Fri Feb 21 17:42:25 2014 -0800 : grunt
+Mark Otto, Fri Feb 21 17:36:47 2014 -0800 : Merge pull request #12459 from rubenstolk/hotfix/mixins/scale
+Mark Otto, Fri Feb 21 17:34:27 2014 -0800 : Merge pull request #12742 from ZDroid/table-responsive-mixin
+Mark Otto, Fri Feb 21 17:23:01 2014 -0800 : Merge pull request #12803 from PHLAK/master
+Mark Otto, Fri Feb 21 17:18:50 2014 -0800 : Merge pull request #12809 from Borkason/patch-1
+Mark Otto, Fri Feb 21 15:14:22 2014 -0800 : Merge pull request #12761 from hnrch02/no-event-aliases
+Mark Otto, Fri Feb 21 15:06:21 2014 -0800 : Fixes #12735: Fix sidebar hover state in Dashboard example
+Mark Otto, Fri Feb 21 15:03:16 2014 -0800 : Fixes #12810: Document .container-fluid in the CSS overview docs
+Mark Otto, Fri Feb 21 14:52:15 2014 -0800 : Fixes #12744: Document ability to remove animation on modals
+Mark Otto, Sun Feb 16 20:37:50 2014 -0800 : Merge pull request #12749 from twbs/pointer-events-note
+Mark Otto, Thu Feb 13 09:24:59 2014 -0800 : grunt
+Mark Otto, Thu Feb 13 08:59:03 2014 -0800 : grunt
+Mark Otto, Thu Feb 13 01:21:35 2014 -0800 : update homepage showcase with three new posts
+Mark Otto, Thu Feb 13 01:12:26 2014 -0800 : v3.1.1 bump
+Mark Otto, Tue Feb 11 14:20:01 2014 -0800 : Fixes #11659, #12698, and #12349: Always apply position and z-index form controls in input groups for proper borders
+Mark Otto, Tue Feb 11 09:57:15 2014 -0800 : Merge pull request #12695 from martikaljuve/offcanvas-transition
+Mark Otto, Tue Feb 11 09:50:40 2014 -0800 : Merge branch 'master' into pr/12412
+Mark Otto, Tue Feb 11 00:05:34 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Feb 10 22:12:28 2014 -0800 : add version to getting started page
+Mark Otto, Mon Feb 10 21:58:50 2014 -0800 : Merge branch 'master' into document_popover_focus
+Mark Otto, Mon Feb 10 21:41:14 2014 -0800 : grunt
+Mark Otto, Mon Feb 10 21:34:05 2014 -0800 : Documents #10140
+Mark Otto, Mon Feb 10 21:28:05 2014 -0800 : Update Glyphicons
+Mark Otto, Mon Feb 10 20:52:43 2014 -0800 : Merge pull request #12673 from tlindig/tl_popover_arrow_size
+Mark Otto, Mon Feb 10 20:52:20 2014 -0800 : http://www.youtube.com/watch?v=YQwYNca4iog
+Mark Otto, Mon Feb 10 20:49:17 2014 -0800 : Fixes #12674
+Mark Otto, Mon Feb 10 20:23:29 2014 -0800 : Fixes #12685: Display current version under download button on homepage
+Mark Otto, Mon Feb 10 19:19:52 2014 -0800 : Merge pull request #12665 from twbs/docs_teams
+Mark Otto, Sat Feb 8 23:24:38 2014 -0800 : Fixes #12610: Better and more consistent prefixing of docs CSS with .bs-docs-
+Mark Otto, Sat Feb 8 22:46:25 2014 -0800 : i'm an idiot
+Mark Otto, Sat Feb 8 22:13:29 2014 -0800 : Update teams to remove two Sass folks and add new Core member
+Mark Otto, Sat Feb 8 17:30:40 2014 -0800 : grunt dist
+Mark Otto, Sat Feb 8 17:29:25 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Feb 8 17:29:10 2014 -0800 : Fixes #12625: Only remove first list group item's top and last list group item's bottom borders when the list group is first or last
+Mark Otto, Sat Feb 8 17:19:45 2014 -0800 : Mention limitation of form validation feedback icons with input groups
+Mark Otto, Sat Feb 8 16:59:59 2014 -0800 : Merge pull request #12433 from tagliala/list-inline-first-element-fix
+Mark Otto, Sat Feb 8 16:56:59 2014 -0800 : brace position
+Mark Otto, Sat Feb 8 16:52:22 2014 -0800 : Merge branch 'master' into fix-12154
+Mark Otto, Sat Feb 8 16:46:12 2014 -0800 : grunt
+Mark Otto, Sat Feb 8 16:43:58 2014 -0800 : grunt
+Mark Otto, Sat Feb 8 16:31:42 2014 -0800 : grunt with new mixins
+Mark Otto, Sat Feb 8 16:13:30 2014 -0800 : grunt
+Mark Otto, Sat Feb 8 16:03:25 2014 -0800 : Merge pull request #12552 from stoudenmire/carousel-icon-classname-fix
+Mark Otto, Sat Feb 8 16:01:56 2014 -0800 : Merge branch 'master' into pr/12462
+Mark Otto, Sat Feb 8 15:53:18 2014 -0800 : Merge branch 'pr/12579'
+Mark Otto, Sat Feb 8 15:51:38 2014 -0800 : grunt
+Mark Otto, Sat Feb 8 15:46:51 2014 -0800 : Merge pull request #12645 from ZDroid/docs-js-semicolons
+Mark Otto, Sat Feb 8 15:44:13 2014 -0800 : grunt
+Mark Otto, Sat Feb 8 15:37:35 2014 -0800 : Merge branch 'master' into pr/12639
+Mark Otto, Sat Feb 8 15:24:43 2014 -0800 : Merge pull request #12659 from ZDroid/blockquote-font-size
+Mark Otto, Fri Feb 7 18:50:41 2014 -0800 : Merge pull request #12633 from twbs/panels_and_tables
+Mark Otto, Fri Feb 7 18:36:27 2014 -0800 : Merge branch 'master' into panels_and_tables
+Mark Otto, Fri Feb 7 15:44:50 2014 -0800 : Nuke shit I added in 4d7b2ddba92e47f923d22d9d7b23cb7b0a3e0bc2 that shouldn't come until v4
+Mark Otto, Fri Feb 7 02:58:10 2014 -0800 : Fixes #12486: Restore full width inputs for input groups in inline forms and navbars
+Mark Otto, Fri Feb 7 02:44:04 2014 -0800 : Follow up to 1bdd59b18c2d1b2409d0422a60e8c007053202df, to better position the sidebar so the potential scrollbar doesn't get hidden by the navbar
+Mark Otto, Fri Feb 7 02:38:01 2014 -0800 : Fixes #12447: Properly reset borders on table cells in panels
+Mark Otto, Fri Feb 7 02:24:37 2014 -0800 : grunt for days
+Mark Otto, Fri Feb 7 02:13:39 2014 -0800 : Merge pull request #12629 from twbs/search_inputs_ios
+Mark Otto, Fri Feb 7 02:08:32 2014 -0800 : Override iOS search input's extra round corners
+Mark Otto, Fri Feb 7 01:49:12 2014 -0800 : Fixes #12477: Clarify IE support in docs
+Mark Otto, Fri Feb 7 01:41:46 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Feb 7 01:41:04 2014 -0800 : Fixes #12590: Add Korean translation link
+Mark Otto, Fri Feb 7 01:39:00 2014 -0800 : Merge pull request #12319 from twbs/address-12007
+Mark Otto, Fri Feb 7 01:33:27 2014 -0800 : clarify comment
+Mark Otto, Fri Feb 7 01:31:42 2014 -0800 : consistency
+Mark Otto, Fri Feb 7 01:27:07 2014 -0800 : Fixes #12526: Add scrollbars when necessary to the Dashboard example's sidebar
+Mark Otto, Fri Feb 7 01:22:30 2014 -0800 : Fixes #12555: Rearrange variables to place grids and containers closer
+Mark Otto, Fri Feb 7 01:16:34 2014 -0800 : Fixes #12614: Add progress bar example with visible label
+Mark Otto, Fri Feb 7 01:10:21 2014 -0800 : Fixes #12611: Mention limitation of one plugin's data attributes per element
+Mark Otto, Fri Feb 7 00:48:25 2014 -0800 : Merge pull request #12497 from twbs/container-fluid-is-now-a-thing
+Mark Otto, Thu Feb 6 19:34:46 2014 -0800 : property order because @zdroid <3
+Mark Otto, Thu Feb 6 19:32:31 2014 -0800 : Merge pull request #12620 from twbs/thumbnail-extend
+Mark Otto, Thu Feb 6 19:31:29 2014 -0800 : Merge pull request #12502 from ZDroid/moz
+Mark Otto, Thu Feb 6 18:52:03 2014 -0800 : Merge branch 'master' into thumbnail-extend
+Mark Otto, Thu Feb 6 18:49:21 2014 -0800 : Merge pull request #12621 from twbs/carousel-img-responsive-extend
+Mark Otto, Wed Feb 5 14:11:46 2014 -0800 : Merge pull request #12465 from XhmikosR/docs-img
+Mark Otto, Wed Feb 5 13:54:53 2014 -0800 : Merge pull request #12534 from Techwraith/patch-1
+Mark Otto, Wed Feb 5 13:46:24 2014 -0800 : add basic back to top link to docs sidenavs, fixes #12589
+Mark Otto, Tue Feb 4 19:27:25 2014 -0800 : grunt dist--includes changes from #12025 and decimal changes, likely from a change in dependencies
+Mark Otto, Tue Feb 4 18:29:05 2014 -0800 : Merge pull request #12025 from ZDroid/clean-visibility-mess
+Mark Otto, Tue Feb 4 16:21:23 2014 -0800 : Merge pull request #12512 from ZDroid/placeholder-img-fix
+Mark Otto, Tue Feb 4 02:04:23 2014 -0800 : Reorder grunt dist tasks to ensure JS gets copied over
+Mark Otto, Tue Feb 4 02:01:45 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Feb 4 02:01:31 2014 -0800 : Fixes #12470: Scope large modal styles to minimum viewport width
+Mark Otto, Tue Feb 4 01:49:29 2014 -0800 : Merge pull request #12521 from twbs/outline-none-note
+Mark Otto, Tue Feb 4 01:23:16 2014 -0800 : Merge pull request #12570 from XhmikosR/libs
+Mark Otto, Tue Feb 4 01:22:29 2014 -0800 : Merge pull request #12572 from XhmikosR/master
+Mark Otto, Tue Feb 4 00:55:54 2014 -0800 : Merge pull request #12568 from XhmikosR/examples-csscomb
+Mark Otto, Tue Feb 4 00:27:12 2014 -0800 : Merge pull request #12466 from XhmikosR/12457
+Mark Otto, Tue Feb 4 00:18:34 2014 -0800 : Don't offset customizer alert, grunt dist
+Mark Otto, Mon Feb 3 23:48:39 2014 -0800 : Merge pull request #12553 from ZDroid/nocf
+Mark Otto, Mon Feb 3 23:40:52 2014 -0800 : Merge pull request #12533 from 1000hz/tighten-popover-arrows-scope
+Mark Otto, Sun Feb 2 11:29:02 2014 -0800 : Merge pull request #12519 from twbs/bower-badge
+Mark Otto, Fri Jan 31 13:40:32 2014 -0800 : grunt after last commits
+Mark Otto, Fri Jan 31 13:39:23 2014 -0800 : Merge pull request #12448 from PHLAK/master
+Mark Otto, Fri Jan 31 13:12:31 2014 -0800 : Use scss option instead of css for better highlighting
+Mark Otto, Thu Jan 30 08:30:37 2014 -0800 : Bump versions, run grunt
+Mark Otto, Thu Jan 30 08:14:18 2014 -0800 : grunt
+Mark Otto, Wed Jan 29 22:44:06 2014 -0800 : grunt
+Mark Otto, Wed Jan 29 22:18:29 2014 -0800 : Merge branch 'master' into pr/12388
+Mark Otto, Wed Jan 29 21:57:44 2014 -0800 : Follow up to #11655: don't reset opacity on disabled buttons
+Mark Otto, Wed Jan 29 21:44:36 2014 -0800 : fix css url
+Mark Otto, Wed Jan 29 21:44:01 2014 -0800 : Merge pull request #12423 from ZDroid/name
+Mark Otto, Wed Jan 29 21:34:10 2014 -0800 : Fix #12422: Reset height on multiple select in input size mixin
+Mark Otto, Wed Jan 29 21:23:23 2014 -0800 : Fixes #12424: Account for Normalize change on figure element so that we don't potentially screw folks over
+Mark Otto, Tue Jan 28 10:57:31 2014 -0800 : Merge pull request #12406 from twbs/normalize_v3
+Mark Otto, Tue Jan 28 10:08:40 2014 -0800 : grunt
+Mark Otto, Tue Jan 28 10:07:33 2014 -0800 : v3 instead of rc1
+Mark Otto, Mon Jan 27 12:25:39 2014 -0800 : Remove #8350's reset for number inputs since Normalize fixes those upstream
+Mark Otto, Mon Jan 27 12:24:35 2014 -0800 : Remove optgroup resets from #7611 since Normalize fixes those upstream
+Mark Otto, Mon Jan 27 12:08:55 2014 -0800 : Upgrade to Normalize v3-rc1 in prep for v3 final
+Mark Otto, Mon Jan 27 09:42:33 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jan 27 09:24:51 2014 -0800 : document id requirement in carousels per #12393
+Mark Otto, Sun Jan 26 19:15:31 2014 -0800 : Merge pull request #12398 from twbs/deprecate-box-shadow-mixin
+Mark Otto, Sat Jan 25 11:10:20 2014 -0800 : Merge pull request #12380 from twbs/translation-german
+Mark Otto, Fri Jan 24 22:36:05 2014 -0800 : Merge pull request #12366 from Quy/master
+Mark Otto, Fri Jan 24 11:56:04 2014 -0600 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Jan 24 11:55:59 2014 -0600 : Fix #12359: Reset min-width on fieldsets so that they don't break responsive tables and behave more like standard block level elements
+Mark Otto, Thu Jan 23 20:55:39 2014 -0800 : Merge pull request #12356 from twbs/wcag-contributing
+Mark Otto, Thu Jan 23 20:53:33 2014 -0800 : Merge pull request #12355 from twbs/aria-contributing
+Mark Otto, Thu Jan 23 22:52:26 2014 -0600 : Fix #12353: Scope table border reset in panels to first-child rows
+Mark Otto, Wed Jan 22 21:51:23 2014 -0600 : Follow-up to #12250: remove remaining page margins for print
+Mark Otto, Wed Jan 22 21:43:08 2014 -0600 : Fix #11655: Fix broken disabled states for iOS form controls and buttons
+Mark Otto, Wed Jan 22 21:20:06 2014 -0600 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jan 22 19:18:24 2014 -0800 : Merge pull request #12250 from twbs/rm-print-margins
+Mark Otto, Wed Jan 22 21:15:25 2014 -0600 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jan 22 21:15:17 2014 -0600 : Fixes #12344: Update docs to show workaround for using button element with justified button groups
+Mark Otto, Wed Jan 22 17:52:00 2014 -0800 : Merge pull request #12345 from twbs/printer-wackiness-note
+Mark Otto, Tue Jan 21 20:50:26 2014 -0800 : Merge pull request #12326 from twbs/navbar-var
+Mark Otto, Tue Jan 21 20:15:21 2014 -0800 : Merge pull request #12327 from twbs/about-ordering
+Mark Otto, Mon Jan 20 20:15:37 2014 -0800 : Merge pull request #12308 from twbs/fix-12298
+Mark Otto, Mon Jan 20 22:12:02 2014 -0600 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Jan 20 22:11:51 2014 -0600 : spacing
+Mark Otto, Sun Jan 19 10:23:00 2014 -0800 : remove confusing comment
+Mark Otto, Sun Jan 19 09:17:00 2014 +0200 : expo callout copy
+Mark Otto, Sat Jan 18 20:45:45 2014 -0800 : Merge pull request #12288 from twbs/x-ua-compat
+Mark Otto, Sat Jan 18 16:21:39 2014 -0800 : Merge pull request #12287 from Quy/master
+Mark Otto, Sat Jan 18 14:50:45 2014 -0800 : link to docs license
+Mark Otto, Sat Jan 18 14:49:00 2014 -0800 : Merge pull request #12219 from ZDroid/rn
+Mark Otto, Sat Jan 18 14:47:29 2014 -0800 : Merge pull request #12248 from twbs/bg-variant
+Mark Otto, Sat Jan 18 14:40:48 2014 -0800 : Run grunt dist after adding 'a' requirement to the text emphasis classes
+Mark Otto, Sat Jan 18 14:40:17 2014 -0800 : Merge branch 'master' into bg-variant
+Mark Otto, Sat Jan 18 14:29:11 2014 -0800 : Merge pull request #12286 from watilde/fixes-panel
+Mark Otto, Sat Jan 18 14:28:45 2014 -0800 : Merge pull request #12249 from twbs/modal-md
+Mark Otto, Sat Jan 18 14:28:33 2014 -0800 : Merge pull request #12247 from twbs/text-emphasis-variant
+Mark Otto, Sat Jan 18 14:12:04 2014 -0800 : Merge branch 'master' into modal-md
+Mark Otto, Sat Jan 18 14:11:55 2014 -0800 : Merge branch 'master' into bg-variant
+Mark Otto, Sat Jan 18 14:11:36 2014 -0800 : Merge branch 'master' into text-emphasis-variant
+Mark Otto, Sat Jan 18 14:09:17 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Jan 18 14:09:09 2014 -0800 : move migration docs to new separate page, leave callout on getting started page; fixes #12244
+Mark Otto, Sat Jan 18 11:42:34 2014 -0800 : Merge pull request #12281 from XhmikosR/vendor
+Mark Otto, Sat Jan 18 11:33:50 2014 -0800 : kill bottom margin on last docs section
+Mark Otto, Fri Jan 17 19:04:14 2014 -0800 : copy
+Mark Otto, Thu Jan 16 20:01:28 2014 -0800 : Merge branch 'bo-tooltip-viewport' of https://github.com/benogle/bootstrap into benogle-bo-tooltip-viewport
+Mark Otto, Thu Jan 16 20:00:36 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Jan 16 20:00:28 2014 -0800 : Split box-sizing reset for faster rendering
+Mark Otto, Thu Jan 16 15:03:34 2014 -0800 : grunt
+Mark Otto, Wed Jan 15 20:14:37 2014 -0800 : Merge pull request #12245 from twbs/footer-links
+Mark Otto, Wed Jan 15 16:25:29 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jan 15 16:25:04 2014 -0800 : fix ad placement
+Mark Otto, Wed Jan 15 15:54:35 2014 -0800 : Merge pull request #12243 from twbs/cleanup-about
+Mark Otto, Wed Jan 15 15:27:07 2014 -0800 : Merge pull request #12242 from twbs/sass-contributing
+Mark Otto, Wed Jan 15 15:01:50 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jan 15 15:01:41 2014 -0800 : Fix page headers
+Mark Otto, Wed Jan 15 13:24:34 2014 -0800 : indentation and page header changes
+Mark Otto, Wed Jan 15 13:08:35 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Tue Jan 14 21:47:24 2014 -0800 : Merge pull request #12232 from twbs/mixing-docs
+Mark Otto, Tue Jan 14 21:46:46 2014 -0800 : Merge pull request #12231 from twbs/callouts
+Mark Otto, Tue Jan 14 21:45:10 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Jan 14 21:44:38 2014 -0800 : Fixes #12210: badges in xs buttons
+Mark Otto, Tue Jan 14 15:53:06 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Tue Jan 14 15:52:40 2014 -0800 : Don't copy-pasta all the Sass docs because fuck keeping that up to date. Instead, point to https://github.com/twbs/bootstrap-sass/blob/master/README.md.
+Mark Otto, Mon Jan 13 22:59:09 2014 -0800 : header masthead changes
+Mark Otto, Mon Jan 13 22:54:22 2014 -0800 : make page headers like masthead
+Mark Otto, Mon Jan 13 22:43:18 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Mon Jan 13 22:38:47 2014 -0800 : Merge pull request #12215 from twbs/attribution-comments
+Mark Otto, Mon Jan 13 20:01:54 2014 -0800 : Merge branch 'responsive-embed' of https://github.com/boulox/bootstrap into boulox-responsive-embed
+Mark Otto, Sun Jan 12 16:10:57 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sun Jan 12 00:04:24 2014 -0800 : Formatting and docs changes
+Mark Otto, Sat Jan 11 23:15:37 2014 -0800 : Improve spacing and alignment of sections and their headings
+Mark Otto, Sat Jan 11 19:42:10 2014 -0800 : brand guidelines cleanup
+Mark Otto, Sat Jan 11 19:35:40 2014 -0800 : homepage improvements
+Mark Otto, Sat Jan 11 19:13:10 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sat Jan 11 14:49:03 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Jan 11 14:48:47 2014 -0800 : grunt dist
+Mark Otto, Sat Jan 11 14:48:04 2014 -0800 : Merge branch 'minify-assets' of https://github.com/XhmikosR/bootstrap into XhmikosR-minify-assets
+Mark Otto, Sat Jan 11 13:08:24 2014 -0800 : Merge pull request #12193 from ZDroid/migration
+Mark Otto, Fri Jan 10 19:04:11 2014 -0800 : Don't test Linux browsers since we don't support them officially and they're failing our tests
+Mark Otto, Fri Jan 10 18:57:01 2014 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Jan 10 18:56:44 2014 -0800 : Fixes #12171: Ensure panel groups have a bottom margin since we nuke it on child panels
+Mark Otto, Fri Jan 10 18:47:51 2014 -0800 : docs mention for #12188
+Mark Otto, Thu Jan 9 21:21:51 2014 -0800 : Clarify that the focus docs styles are not in the repo, per https://github.com/twbs/bootstrap-sass/issues/497
+Mark Otto, Thu Jan 9 20:33:55 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Thu Jan 9 18:07:14 2014 -0800 : Fixes #11990 and #12159: Make range inputs block level and 100% wide by default
+Mark Otto, Thu Jan 9 18:06:46 2014 -0800 : grunt dist
+Mark Otto, Thu Jan 9 18:05:04 2014 -0800 : more derp
+Mark Otto, Thu Jan 9 14:28:27 2014 -0800 : Merge pull request #12175 from waynn/patch-3
+Mark Otto, Wed Jan 8 00:52:51 2014 -0800 : Merge pull request #12151 from wangsai/no-preboot
+Mark Otto, Mon Jan 6 09:26:08 2014 -0800 : justify text
+Mark Otto, Mon Jan 6 09:14:44 2014 -0800 : Merge pull request #12125 from juniorconte/input-block-level
+Mark Otto, Sun Jan 5 23:43:13 2014 -0800 : link
+Mark Otto, Sun Jan 5 23:37:14 2014 -0800 : Move homepage examples to data file
+Mark Otto, Sun Jan 5 23:23:55 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sun Jan 5 23:21:11 2014 -0800 : Merge pull request #12107 from twbs/same-footer-links
+Mark Otto, Sun Jan 5 23:19:34 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sun Jan 5 20:54:31 2014 -0800 : grammarghhhhhhhhhhhh
+Mark Otto, Sun Jan 5 20:53:40 2014 -0800 : copy
+Mark Otto, Sun Jan 5 20:16:17 2014 -0800 : Merge pull request #12115 from Quy/master
+Mark Otto, Sun Jan 5 17:50:07 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sun Jan 5 17:49:40 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sun Jan 5 15:57:33 2014 -0800 : Merge pull request #12110 from twbs/one-control-per-input-group
+Mark Otto, Sun Jan 5 13:26:15 2014 -0800 : Use mix of medium and small grid clases on dashboard example
+Mark Otto, Sun Jan 5 13:19:49 2014 -0800 : Merge pull request #12105 from twbs/navbar-containers
+Mark Otto, Sat Jan 4 19:31:52 2014 -0800 : Merge pull request #12092 from Quy/master
+Mark Otto, Fri Jan 3 13:18:12 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Thu Jan 2 10:54:10 2014 -0800 : updates to homepage
+Mark Otto, Thu Jan 2 10:52:43 2014 -0800 : Merge pull request #12063 from ZDroid/tc
+Mark Otto, Wed Jan 1 12:27:09 2014 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Wed Jan 1 12:02:28 2014 -0800 : Merge pull request #12055 from wangsai/fix-assets-links-of-examples
+Mark Otto, Tue Dec 31 18:23:10 2013 -0800 : Update Gruntfile.js to copy 'dist/' files to 'docs/dist/' with 'grunt dist' task; Fixes #12030: navbar toggle focus state
+Mark Otto, Tue Dec 31 17:47:16 2013 -0800 : Fix broken JS
+Mark Otto, Tue Dec 31 13:57:43 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Tue Dec 31 13:57:35 2013 -0800 : derp
+Mark Otto, Tue Dec 31 13:56:20 2013 -0800 : fix homepage images
+Mark Otto, Tue Dec 31 13:53:33 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Tue Dec 31 13:43:32 2013 -0800 : Merge pull request #12037 from twbs/docs_dir
+Mark Otto, Tue Dec 31 13:43:11 2013 -0800 : Merge branch 'master' into docs_dir
+Mark Otto, Tue Dec 31 13:16:28 2013 -0800 : Fixes #12046: move .csscomb.json and .csslintrc to less/ folder
+Mark Otto, Tue Dec 31 12:57:55 2013 -0800 : Merge pull request #12049 from ZDroid/update-de
+Mark Otto, Tue Dec 31 11:57:44 2013 -0800 : typo
+Mark Otto, Tue Dec 31 11:38:32 2013 -0800 : @nschonni's feedback <3
+Mark Otto, Tue Dec 31 10:51:39 2013 -0800 : @cvrebert's feedback
+Mark Otto, Tue Dec 31 10:38:31 2013 -0800 : Merge branch 'master' into docs_dir
+Mark Otto, Sat Dec 28 23:08:46 2013 -0800 : no more page.base_url
+Mark Otto, Sat Dec 28 23:05:02 2013 -0800 : Streamline copy process by not bringing over full files into docs/dist/, only take minified ones
+Mark Otto, Sat Dec 28 22:47:03 2013 -0800 : Rearrange repository contents because muahahahahahaha
+Mark Otto, Sat Dec 28 18:47:32 2013 -0800 : drop the title
+Mark Otto, Sat Dec 28 18:46:36 2013 -0800 : Merge pull request #12035 from tomByrer/master
+Mark Otto, Fri Dec 27 16:44:00 2013 -0800 : spacing
+Mark Otto, Fri Dec 27 16:41:33 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Fri Dec 27 16:41:25 2013 -0800 : grunt on last merge
+Mark Otto, Fri Dec 27 14:04:44 2013 -0800 : big brand update
+Mark Otto, Fri Dec 27 12:40:02 2013 -0800 : Merge pull request #12028 from moshevds/deprecated-screen-md
+Mark Otto, Thu Dec 26 22:03:37 2013 -0800 : more nav changes
+Mark Otto, Thu Dec 26 21:49:40 2013 -0800 : the final frontier
+Mark Otto, Thu Dec 26 21:40:15 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Thu Dec 26 19:37:19 2013 -0800 : less fun to address #12008
+Mark Otto, Thu Dec 26 19:08:34 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Dec 26 19:08:19 2013 -0800 : Fixes #12012: Use correct banner in docs js
+Mark Otto, Thu Dec 26 12:54:23 2013 -0800 : Merge pull request #12010 from ZDroid/wrong-indent
+Mark Otto, Wed Dec 25 14:32:00 2013 +0200 : don't be repetitive on homepage
+Mark Otto, Wed Jan 22 15:37:11 2014 -0600 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Jan 22 15:37:05 2014 -0600 : scope styles to masthead, not homepage
+Mark Otto, Tue Dec 24 12:24:07 2013 -0800 : Merge pull request #12001 from soundarapandian/fix_typo_contributing
+Mark Otto, Tue Dec 24 12:18:53 2013 -0800 : don't roll back that comment
+Mark Otto, Tue Dec 24 12:17:48 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Dec 24 12:16:17 2013 -0800 : roll back version numbers to avoid broken links in docs and readme (fixes #12000)
+Mark Otto, Mon Dec 23 23:26:05 2013 -0800 : Merge pull request #11999 from XhmikosR/respond.js
+Mark Otto, Mon Dec 23 20:28:21 2013 -0800 : add callout about justified button group borders to address #11964
+Mark Otto, Mon Dec 23 18:53:30 2013 -0800 : Merge pull request #11970 from supergibbs/Better_10492_fix
+Mark Otto, Mon Dec 23 15:16:25 2013 -0800 : Fixes #11975: Change from png to .ico for favicon
+Mark Otto, Mon Dec 23 13:26:01 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Dec 23 13:25:51 2013 -0800 : Upgrade to CSScomb 1.2.1 and reset some ordering to ensure no rogue spaces
+Mark Otto, Mon Dec 23 12:42:41 2013 -0800 : Merge pull request #11989 from ZDroid/banner
+Mark Otto, Sun Dec 22 23:15:35 2013 -0800 : Merge pull request #11978 from XhmikosR/clean-up-_gh-pages
+Mark Otto, Sun Dec 22 22:32:35 2013 -0800 : grunt
+Mark Otto, Sun Dec 22 22:31:28 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 22 22:31:13 2013 -0800 : Fixes #10492 and some of #11970: round the proper corner on table cells in panels
+Mark Otto, Sun Dec 22 22:20:23 2013 -0800 : Merge pull request #11974 from XhmikosR/meta
+Mark Otto, Sun Dec 22 22:08:33 2013 -0800 : Merge pull request #11972 from XhmikosR/comma
+Mark Otto, Sun Dec 22 22:07:01 2013 -0800 : fixes #11961: dropdown alignment docs improvements
+Mark Otto, Sun Dec 22 21:47:11 2013 -0800 : Merge pull request #11963 from twbs/sass_docs
+Mark Otto, Sun Dec 22 21:42:08 2013 -0800 : space
+Mark Otto, Sun Dec 22 21:27:12 2013 -0800 : add what's included
+Mark Otto, Sun Dec 22 21:23:24 2013 -0800 : Merge branch 'master' into sass_docs
+Mark Otto, Sun Dec 22 21:18:45 2013 -0800 : Revert to CSScomb 1.1.0 because 1.2.0 and 1.2.1 fuck up our compiled CSS
+Mark Otto, Sun Dec 22 21:05:08 2013 -0800 : Remove timestamp on generated Glyhpicons
+Mark Otto, Sun Dec 22 21:01:00 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 22 21:00:53 2013 -0800 : grunt
+Mark Otto, Sun Dec 22 17:30:35 2013 -0800 : Merge pull request #11979 from ZDroid/fix-old-links
+Mark Otto, Sat Dec 21 13:42:10 2013 -0800 : link homepage sass and less
+Mark Otto, Sat Dec 21 13:40:42 2013 -0800 : rework downloads to simplify and add sass
+Mark Otto, Sat Dec 21 11:17:39 2013 -0800 : remove dat
+Mark Otto, Sat Dec 21 11:17:29 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sat Dec 21 10:36:20 2013 -0800 : add section for contents
+Mark Otto, Sat Dec 21 10:09:39 2013 -0800 : config url
+Mark Otto, Sat Dec 21 10:08:04 2013 -0800 : Team members on About page
+Mark Otto, Sat Dec 21 09:59:24 2013 -0800 : remove some unintional code
+Mark Otto, Sat Dec 21 09:45:47 2013 -0800 : Merge branch 'master' into sass_docs
+Mark Otto, Sat Dec 21 09:36:51 2013 -0800 : readme typo from #11965
+Mark Otto, Sat Dec 21 09:36:18 2013 -0800 : Merge pull request #11965 from tomByrer/md-tweaks
+Mark Otto, Fri Dec 20 21:19:45 2013 -0800 : more Less
+Mark Otto, Fri Dec 20 21:02:25 2013 -0800 : Sass docs; LESS to Less because fuck caps
+Mark Otto, Fri Dec 20 12:29:49 2013 -0800 : Merge pull request #11956 from tlindig/tl_pagination_customizing
+Mark Otto, Fri Dec 20 11:18:04 2013 -0800 : Merge pull request #11960 from ZDroid/no-leading-commas-json
+Mark Otto, Fri Dec 20 11:08:39 2013 -0800 : Merge pull request #11959 from ZDroid/update-grunt-csscomb
+Mark Otto, Thu Dec 19 19:40:08 2013 -0800 : Fixes #11952: Refactor blockquote styles
+Mark Otto, Thu Dec 19 19:28:22 2013 -0800 : correct jsbin link
+Mark Otto, Thu Dec 19 15:03:43 2013 -0800 : Merge pull request #11930 from ssorallen/master
+Mark Otto, Thu Dec 19 14:06:01 2013 -0800 : Merge pull request #11941 from ZDroid/left-plus
+Mark Otto, Thu Dec 19 14:05:19 2013 -0800 : Merge pull request #11939 from ZDroid/weird-indents
+Mark Otto, Wed Dec 18 21:41:19 2013 -0800 : Merge pull request #11932 from dzwillia/th-td-position-static
+Mark Otto, Wed Dec 18 19:04:18 2013 -0800 : Merge pull request #11929 from twbs/maintainers
+Mark Otto, Wed Dec 18 17:34:40 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Dec 18 17:34:30 2013 -0800 : Fixes #11918: Fork the @h5bp contributing guidelines and combine with our coding guidelines
+Mark Otto, Wed Dec 18 17:32:52 2013 -0800 : Fixes
+Mark Otto, Wed Dec 18 16:56:41 2013 -0800 : fixes #11447: add docs warning about loading once for remote modal option
+Mark Otto, Wed Dec 18 16:19:46 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Wed Dec 18 15:35:24 2013 -0800 : license in customizer
+Mark Otto, Wed Dec 18 15:26:17 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Dec 18 15:26:07 2013 -0800 : update license faqs for apache
+Mark Otto, Wed Dec 18 15:13:50 2013 -0800 : grunt after that carousel merge
+Mark Otto, Wed Dec 18 15:12:51 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Dec 18 15:12:30 2013 -0800 : another apache mention
+Mark Otto, Wed Dec 18 15:08:38 2013 -0800 : remove license readme mention
+Mark Otto, Wed Dec 18 15:08:16 2013 -0800 : more license mentions
+Mark Otto, Wed Dec 18 15:01:47 2013 -0800 : Merge pull request #11416 from danielboendergaard/carousel-duration
+Mark Otto, Wed Dec 18 14:56:08 2013 -0800 : version bump
+Mark Otto, Wed Dec 18 14:54:24 2013 -0800 : Punt Apache license information and stick with MIT
+Mark Otto, Wed Dec 18 14:52:50 2013 -0800 : grunt
+Mark Otto, Wed Dec 18 14:49:05 2013 -0800 : Merge pull request #11928 from twbs/we_have_to_go_back_kate
+Mark Otto, Wed Dec 18 14:38:10 2013 -0800 : drop the the, it's cleaner
+Mark Otto, Wed Dec 18 14:37:30 2013 -0800 : derp
+Mark Otto, Wed Dec 18 14:29:33 2013 -0800 : buttons should be more mixin friendly
+Mark Otto, Wed Dec 18 14:28:03 2013 -0800 : navbars need to use prefixed nav class or they won't work as expected
+Mark Otto, Wed Dec 18 14:27:21 2013 -0800 : restore inline block on breadcrumbs and ensure proper code formatting for readibility
+Mark Otto, Wed Dec 18 14:26:37 2013 -0800 : run grunt dist
+Mark Otto, Wed Dec 18 14:24:59 2013 -0800 : rewrite readme to restore lost information, only with a bit more formatting consistency
+Mark Otto, Wed Dec 18 14:21:35 2013 -0800 : Merge pull request #11927 from twbs/revert_commits
+Mark Otto, Wed Dec 18 13:52:39 2013 -0800 : callout colors
+Mark Otto, Wed Dec 18 13:40:29 2013 -0800 : more docs
+Mark Otto, Wed Dec 18 13:13:27 2013 -0800 : footer alignment
+Mark Otto, Wed Dec 18 13:06:47 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Wed Dec 18 13:01:43 2013 -0800 : Merge pull request #11881 from ZDroid/patch-1
+Mark Otto, Wed Dec 18 12:57:38 2013 -0800 : Merge pull request #11804 from twbs/css-source-maps
+Mark Otto, Wed Dec 18 11:41:48 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Wed Dec 18 10:23:46 2013 -0800 : add source maps
+Mark Otto, Wed Dec 18 10:22:18 2013 -0800 : Merge branch 'master' into css-source-maps
+Mark Otto, Wed Dec 18 09:49:05 2013 -0800 : Fixes #11899: Ensure proper margins and .small/small usage for heading tags (e.g., .h1-.h6)
+Mark Otto, Wed Dec 18 09:48:04 2013 -0800 : add inline note about navbar sizing
+Mark Otto, Wed Dec 18 09:42:45 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Dec 18 09:42:37 2013 -0800 : fixes #11925: cover template for firefox
+Mark Otto, Wed Dec 18 09:42:13 2013 -0800 : tweaks
+Mark Otto, Tue Dec 17 22:49:55 2013 -0800 : Merge pull request #11910 from InWayOpenSource/btn-group-inside-input-group-btn
+Mark Otto, Mon Dec 16 00:39:50 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sun Dec 15 22:10:05 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 15 22:09:45 2013 -0800 : inform the people that fixed positioning ain't all it's cracked up to be /cc #11888
+Mark Otto, Sun Dec 15 22:04:57 2013 -0800 : Merge pull request #11887 from twbs/minor-panels-refactor
+Mark Otto, Sun Dec 15 17:22:55 2013 -0800 : Fixes #10492 again, this time for last row's corners on striped tables
+Mark Otto, Sun Dec 15 17:15:09 2013 -0800 : Add new form feedback states, clean up existing form styles
+Mark Otto, Sun Dec 15 15:27:46 2013 -0800 : Fixes #11266: Apply a pixel-based line-height to date inputs for iOS 7
+Mark Otto, Sun Dec 15 15:24:52 2013 -0800 : formatting and comment
+Mark Otto, Sun Dec 15 15:07:38 2013 -0800 : Merge branch 'master' into pr/11817
+Mark Otto, Sun Dec 15 14:52:49 2013 -0800 : Fixes #11402: Updated fix for select.form-control width in inline-forms
+Mark Otto, Sun Dec 15 14:32:14 2013 -0800 : grunt
+Mark Otto, Sun Dec 15 14:28:49 2013 -0800 : Merge pull request #11494 from blowsie/patch-2
+Mark Otto, Sun Dec 15 14:23:55 2013 -0800 : Fixes #11660: Depcreate small and .small in blockquote in favor of footer
+Mark Otto, Sun Dec 15 14:14:32 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 15 14:14:09 2013 -0800 : revert an earlier change to move the component-animations.less file because it fubared modal backdrop .fade usage
+Mark Otto, Sun Dec 15 14:13:25 2013 -0800 : run grunt on modal scrolling change
+Mark Otto, Sun Dec 15 14:10:48 2013 -0800 : Merge branch 'master' into pr/11676
+Mark Otto, Sun Dec 15 14:09:50 2013 -0800 : Merge branch 'master' into pr/11776
+Mark Otto, Sun Dec 15 14:07:17 2013 -0800 : Merge pull request #11732 from dak/include-dev-fonts-in-bower
+Mark Otto, Sun Dec 15 13:53:41 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 15 13:52:56 2013 -0800 : typo
+Mark Otto, Sun Dec 15 13:46:11 2013 -0800 : Merge pull request #11840 from ZDroid/pagination-boom
+Mark Otto, Sun Dec 15 13:44:26 2013 -0800 : Fixes #11783: Document requirement of .container(-fluid) in navbars
+Mark Otto, Sun Dec 15 13:39:45 2013 -0800 : Fixes #11795: Update the contributing guidelines to include some more CSS guidelines
+Mark Otto, Sun Dec 15 13:08:17 2013 -0800 : Clarify number of columns in nested grid
+Mark Otto, Sun Dec 15 12:41:47 2013 -0800 : Fixes #11799: Mention support of number of add-ons in docs
+Mark Otto, Sun Dec 15 12:31:40 2013 -0800 : Fixes #11770: Move component-animations.less to the utility section of import list to match Customizer
+Mark Otto, Sun Dec 15 12:27:46 2013 -0800 : Browser/device support docs update
+Mark Otto, Sun Dec 15 11:44:16 2013 -0800 : Fixes #11833: add warning to docs for popover multiple line positioning; update it's docs with example markup, too
+Mark Otto, Sun Dec 15 11:41:46 2013 -0800 : update tooltip docs
+Mark Otto, Sun Dec 15 11:36:16 2013 -0800 : Fixes #11805 with docs mention of navbar
+Mark Otto, Sun Dec 15 11:33:06 2013 -0800 : finalize blog template
+Mark Otto, Sun Dec 15 11:29:58 2013 -0800 : Restyle the blockquote to not thin text or change line-height
+Mark Otto, Sun Dec 15 11:16:57 2013 -0800 : Merge branch 'master' into cover_template
+Mark Otto, Sun Dec 15 11:09:03 2013 -0800 : Change variable
+Mark Otto, Sun Dec 15 11:02:45 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 15 11:02:32 2013 -0800 : Fixes #11829: Adds .make-xs-column mixins
+Mark Otto, Sun Dec 15 10:59:23 2013 -0800 : Merge pull request #11861 from freeman/master
+Mark Otto, Sun Dec 15 10:57:11 2013 -0800 : Fixes #11871: commas last
+Mark Otto, Sun Dec 15 10:53:53 2013 -0800 : comments and spacing
+Mark Otto, Sun Dec 15 10:39:12 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 15 10:38:54 2013 -0800 : Fixes #11801: use correct variables for grid containers
+Mark Otto, Sun Dec 15 10:28:32 2013 -0800 : Merge pull request #11879 from ZDroid/wrong-variable
+Mark Otto, Sat Dec 14 21:50:47 2013 -0800 : Fixes #11588: Scope font-size to only p elements in a .jumbotron and remove the supersized line-height from the base class
+Mark Otto, Sat Dec 14 21:43:08 2013 -0800 : Fixes #11555: Add `@tooltip-opacity` variable
+Mark Otto, Sat Dec 14 21:40:16 2013 -0800 : Fixes #11572: Add contextual background-color classes to match text classes; move both sets of classes to Helper Classes section of the CSS docs
+Mark Otto, Sat Dec 14 21:25:57 2013 -0800 : change class name
+Mark Otto, Sat Dec 14 20:04:52 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Dec 14 20:04:12 2013 -0800 : Fixes #11561: Add float: left; to .form-control within input groups to prevent IE9 from screwing up placeholder text and select menu arrows
+Mark Otto, Sat Dec 14 19:31:20 2013 -0800 : correct bookmark prefix
+Mark Otto, Sat Dec 14 19:31:03 2013 -0800 : document #11326
+Mark Otto, Sat Dec 14 18:58:41 2013 -0800 : Merge pull request #11326 from ZDroid/animations
+Mark Otto, Sat Dec 14 18:55:25 2013 -0800 : Merge pull request #10704 from XhmikosR/various
+Mark Otto, Sat Dec 14 16:56:56 2013 -0800 : Merge branch 'master' into pr/11435
+Mark Otto, Sat Dec 14 16:46:40 2013 -0800 : Merge branch 'master' into pr/11302
+Mark Otto, Sat Dec 14 16:29:55 2013 -0800 : Document new modal sizes
+Mark Otto, Sat Dec 14 16:29:47 2013 -0800 : Merge branch 'master' into pr/11162
+Mark Otto, Sat Dec 14 16:20:19 2013 -0800 : Merge branch 'master' into pr/11107
+Mark Otto, Sat Dec 14 16:17:41 2013 -0800 : Merge pull request #11286 from BBosman/well-border
+Mark Otto, Sat Dec 14 16:03:21 2013 -0800 : Fixes #10921: Add support for input groups within button toolbars
+Mark Otto, Sat Dec 14 15:56:01 2013 -0800 : mention lack of support for split button dropdowns in vertical button groups
+Mark Otto, Sat Dec 14 15:38:21 2013 -0800 : Merge branch 'master' into pr/10951
+Mark Otto, Sat Dec 14 14:18:43 2013 -0800 : Fixes #10505: Document more of LESS vars and mixins
+Mark Otto, Sat Dec 14 13:23:25 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Dec 14 13:22:56 2013 -0800 : Fixes #10370: Improved and deprecated dropdown menu alignment options
+Mark Otto, Sat Dec 14 11:44:54 2013 -0800 : Fixes #11867: Add `@panel-body-padding` variable
+Mark Otto, Sat Dec 14 11:36:54 2013 -0800 : Merge branch 'master' into pr/11868
+Mark Otto, Fri Dec 13 23:06:04 2013 -0800 : Fixes #10495: Float Glyphicon and set margins in .navbar-brand to ensure there is no added height because wtf even is CSS
+Mark Otto, Thu Dec 12 23:01:11 2013 -0800 : -ms-transform is for IE9 only, IE10+ don't require it
+Mark Otto, Thu Dec 12 22:59:08 2013 -0800 : Merge pull request #11819 from janpanschab/ms-transform-origin
+Mark Otto, Thu Dec 12 18:10:58 2013 -0800 : quotes
+Mark Otto, Thu Dec 12 15:21:49 2013 -0800 : text update
+Mark Otto, Thu Dec 12 15:21:34 2013 -0800 : move icons to partial
+Mark Otto, Thu Dec 12 14:59:25 2013 -0800 : just column width, not max
+Mark Otto, Thu Dec 12 14:57:43 2013 -0800 : more docs homepage cleanup
+Mark Otto, Thu Dec 12 10:28:43 2013 -0800 : homepage images
+Mark Otto, Thu Dec 12 10:28:37 2013 -0800 : typo
+Mark Otto, Wed Dec 11 22:39:03 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Wed Dec 11 22:37:59 2013 -0800 : more homepage and sidenav overhaul
+Mark Otto, Wed Dec 11 16:45:41 2013 -0800 : Add new template, Cover
+Mark Otto, Wed Dec 11 10:52:55 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Dec 11 10:52:47 2013 -0800 : Fixes #11837: grid containers are fixed width now, no longer max-width
+Mark Otto, Wed Dec 11 10:48:51 2013 -0800 : Merge pull request #11841 from ZDroid/breadcrumbs
+Mark Otto, Wed Dec 11 10:47:54 2013 -0800 : Merge pull request #11839 from XhmikosR/readme
+Mark Otto, Tue Dec 10 19:43:52 2013 -0800 : Combine updates to Windows Jekyll stuff
+Mark Otto, Tue Dec 10 19:40:51 2013 -0800 : Merge pull request #11830 from XhmikosR/jekyll-windows
+Mark Otto, Tue Dec 10 19:40:31 2013 -0800 : Merge pull request #11832 from twbs/run_jekyll_on_windows
+Mark Otto, Tue Dec 10 10:03:33 2013 -0800 : Merge pull request #11818 from XhmikosR/less.js
+Mark Otto, Tue Dec 10 10:02:01 2013 -0800 : Merge pull request #11812 from tlindig/load_grunt_tasks
+Mark Otto, Mon Dec 9 18:16:18 2013 -0800 : Merge pull request #11809 from twbs/enable-LESS-strictMath
+Mark Otto, Mon Dec 9 11:30:10 2013 -0800 : Merge pull request #11790 from twbs/drop_recess_for_less
+Mark Otto, Mon Dec 9 00:12:11 2013 -0800 : Undo merge of #11778 and use cleancss min option
+Mark Otto, Mon Dec 9 00:09:52 2013 -0800 : grunt
+Mark Otto, Sun Dec 8 23:56:22 2013 -0800 : Merge branch 'pr/11779' into drop_recess_for_less
+Mark Otto, Sun Dec 8 23:55:03 2013 -0800 : Merge pull request #11792 from twbs/list-group-nest
+Mark Otto, Sun Dec 8 23:48:07 2013 -0800 : Merge branch 'pr/11778' into drop_recess_for_less
+Mark Otto, Sun Dec 8 23:18:28 2013 -0800 : Switch to `&:extend(.clearfix all)` for clearfix mixin
+Mark Otto, Sun Dec 8 23:00:01 2013 -0800 : Merge branch 'master' into drop_recess_for_less
+Mark Otto, Sun Dec 8 22:55:09 2013 -0800 : more closely align property order with recess
+Mark Otto, Sun Dec 8 22:33:24 2013 -0800 : specify block indent as numeral to prevent fubared media query output
+Mark Otto, Sun Dec 8 22:32:07 2013 -0800 : single array == no rogue spaces
+Mark Otto, Sun Dec 8 22:16:43 2013 -0800 : derp, don't sort min /cc @cvrebert
+Mark Otto, Sun Dec 8 22:11:46 2013 -0800 : merge, compile
+Mark Otto, Sun Dec 8 19:19:06 2013 -0800 : Fixes #11786: Nest media queries within print utilities for mixin-friendliness
+Mark Otto, Sun Dec 8 19:17:43 2013 -0800 : adding json
+Mark Otto, Sun Dec 8 19:12:37 2013 -0800 : restore original options value
+Mark Otto, Sun Dec 8 19:09:27 2013 -0800 : Drop grunt-recess for grunt-contrib-less & co
+Mark Otto, Sun Dec 8 17:50:26 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 8 17:21:37 2013 -0800 : grunt
+Mark Otto, Sun Dec 8 17:19:45 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 8 17:17:51 2013 -0800 : Match customizer banner to Gruntfile banner
+Mark Otto, Sun Dec 8 17:17:04 2013 -0800 : fix dependency mapping of buttons and button-groups in customizer
+Mark Otto, Sun Dec 8 10:47:24 2013 -0800 : Merge pull request #11780 from ZDroid/grunt-dev
+Mark Otto, Sun Dec 8 02:52:15 2013 -0800 : Merge pull request #10709 from XhmikosR/quotes
+Mark Otto, Sun Dec 8 02:16:16 2013 -0800 : Merge pull request #11739 from XhmikosR/lint-assets
+Mark Otto, Sun Dec 8 02:14:43 2013 -0800 : fix validation failure
+Mark Otto, Sun Dec 8 02:14:24 2013 -0800 : Fixes #11741: Don't set headings font-family again, just use inherit
+Mark Otto, Sun Dec 8 02:00:37 2013 -0800 : Merge branch 'master' into pr/11744
+Mark Otto, Sun Dec 8 01:59:44 2013 -0800 : add vertical-align back to where it's necessary since we reset from block to inline-block on several inputs
+Mark Otto, Sun Dec 8 01:49:38 2013 -0800 : Merge pull request #11748 from bganicky/patch-1
+Mark Otto, Sun Dec 8 01:45:42 2013 -0800 : Merge branch 'master' into pr/11750
+Mark Otto, Sun Dec 8 00:17:17 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Dec 7 23:49:03 2013 -0800 : image compression
+Mark Otto, Sat Dec 7 23:29:36 2013 -0800 : Merge pull request #11772 from KostyaTretyak/correction
+Mark Otto, Sat Dec 7 23:23:41 2013 -0800 : Add new template, Cover
+Mark Otto, Sat Dec 7 20:52:51 2013 -0800 : Add .container-fluid variation for full-width containers and layouts
+Mark Otto, Sat Dec 7 20:51:25 2013 -0800 : Add new template, Dashboard
+Mark Otto, Sat Dec 7 16:28:29 2013 -0800 : improve icon display on narrow devices
+Mark Otto, Sat Dec 7 16:22:43 2013 -0800 : prevent horizontal scroll on components
+Mark Otto, Sat Dec 7 16:22:00 2013 -0800 : Shorter download text because narrow viewports
+Mark Otto, Sat Dec 7 16:21:46 2013 -0800 : Fixes #11729: Show code snippets on mobile views
+Mark Otto, Sat Dec 7 15:57:17 2013 -0800 : Fixes #11756: Mention document mode checking ability in IE comaptibility modes
+Mark Otto, Sat Dec 7 14:10:41 2013 -0800 : Merge branch 'pr/11138'
+Mark Otto, Sat Dec 7 14:09:03 2013 -0800 : Contextual list group cleanup
+Mark Otto, Sat Dec 7 12:19:17 2013 -0800 : grunt dist after adding .text-justify
+Mark Otto, Sat Dec 7 12:18:52 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Dec 7 12:18:13 2013 -0800 : Fixes #11193: Add kbd element styles to indicate user input via keyboard
+Mark Otto, Sat Dec 7 11:58:31 2013 -0800 : Merge pull request #11675 from GraceNut/feature/text-justify
+Mark Otto, Sat Dec 7 11:56:35 2013 -0800 : Fixes #10884: Adds .info variant to contextual table classes
+Mark Otto, Sat Dec 7 11:47:37 2013 -0800 : Reorder button and table variants for consistent order
+Mark Otto, Sat Dec 7 11:45:11 2013 -0800 : Fixes #11766: Use color var for background on badges in buttons to restore proper background to default button badge
+Mark Otto, Sat Dec 7 11:44:32 2013 -0800 : grunt dist
+Mark Otto, Sat Dec 7 11:41:02 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Dec 7 11:40:08 2013 -0800 : Fixes #11764: Add meta data to docs for description, keywords, and authors
+Mark Otto, Sat Dec 7 11:34:03 2013 -0800 : Merge pull request #11757 from ZDroid/darken-toggle
+Mark Otto, Sat Dec 7 11:32:39 2013 -0800 : grunt
+Mark Otto, Sat Dec 7 11:22:38 2013 -0800 : Fixes #11760: Remove mailing list links from readme and about pages
+Mark Otto, Sat Dec 7 11:09:43 2013 -0800 : Merge pull request #11765 from ZDroid/docs-min-js
+Mark Otto, Fri Dec 6 19:33:53 2013 -0800 : Merge pull request #11761 from twbs/jscs
+Mark Otto, Fri Dec 6 13:21:00 2013 -0800 : Merge pull request #11755 from twbs/track-customize-js
+Mark Otto, Fri Dec 6 11:27:19 2013 -0800 : Merge pull request #11738 from XhmikosR/min-assets
+Mark Otto, Thu Dec 5 08:09:10 2013 -0800 : Merge pull request #11718 from KostyaTretyak/once
+Mark Otto, Wed Dec 4 22:54:03 2013 -0800 : one last grunt
+Mark Otto, Wed Dec 4 22:52:12 2013 -0800 : Merge pull request #11714 from ZDroid/redundant-comment
+Mark Otto, Wed Dec 4 22:34:25 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Dec 4 22:32:56 2013 -0800 : Fixes #11610: Add @grid-float-breakpoint-max to better link navbar behavior across viewports and improve customization.
+Mark Otto, Wed Dec 4 21:58:00 2013 -0800 : Merge pull request #11671 from XhmikosR/updates
+Mark Otto, Wed Dec 4 21:23:09 2013 -0800 : Merge branch 'master' into gradient-prefix-cleanup
+Mark Otto, Wed Dec 4 21:22:24 2013 -0800 : grunt
+Mark Otto, Wed Dec 4 21:13:33 2013 -0800 : Fixes #11712: Better support for .table-responsive within .panel's
+Mark Otto, Wed Dec 4 21:10:13 2013 -0800 : Fixes #11436: mention in docs that .container isn't nestable; update docs to mention width, not max-width
+Mark Otto, Wed Dec 4 20:45:57 2013 -0800 : Merge pull request #11710 from JoahG/bootstrap-thumb
+Mark Otto, Tue Dec 3 22:58:25 2013 -0800 : Merge branch 'master' into responsive-visibility-table
+Mark Otto, Tue Dec 3 22:55:11 2013 -0800 : Merge pull request #11697 from twbs/btn-xs-10979
+Mark Otto, Sun Dec 1 21:18:41 2013 -0800 : Merge pull request #10662 from kevinlisota/thumbnail-images
+Mark Otto, Sun Dec 1 20:48:43 2013 -0800 : Merge pull request #11667 from neilhem/master
+Mark Otto, Sun Dec 1 20:27:30 2013 -0800 : Merge branch 'master' into pr/11412
+Mark Otto, Sun Dec 1 20:27:14 2013 -0800 : grunt dist
+Mark Otto, Sun Dec 1 20:27:09 2013 -0800 : add comment
+Mark Otto, Sun Dec 1 20:18:40 2013 -0800 : Merge pull request #11499 from bassjobsen/patch-3
+Mark Otto, Sun Dec 1 19:31:52 2013 -0800 : bump version numbers to 3.0.3
+Mark Otto, Sun Dec 1 19:30:10 2013 -0800 : grunt
+Mark Otto, Sun Dec 1 19:27:33 2013 -0800 : Rework navbar padding and margins for right aligned last-child elements
+Mark Otto, Sun Dec 1 18:35:58 2013 -0800 : grunt
+Mark Otto, Sun Dec 1 18:13:27 2013 -0800 : Fixes #11357: Vertically center sm and xs buttons in the navbar
+Mark Otto, Sun Dec 1 18:06:57 2013 -0800 : Fixes #9927: Update non-responsive example to prevent .navbar-collapse border from increasing height and increase specificity of nav selectors to keep dropdowns looking the same
+Mark Otto, Sun Dec 1 17:25:37 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Dec 1 13:51:17 2013 -0800 : fixes #11508: mention in docs that inline forms only work at 768px and up
+Mark Otto, Sun Dec 1 11:16:17 2013 -0800 : Merge pull request #11662 from ZDroid/deprecation-fix
+Mark Otto, Sun Dec 1 00:20:47 2013 -0800 : Fixes #10941: Fix Glyphicons path for those importing bootstrap.less from another directory
+Mark Otto, Sat Nov 30 23:38:39 2013 -0800 : Add docs example to go with #11536
+Mark Otto, Sat Nov 30 23:35:56 2013 -0800 : Merge branch 'master' into pr/11536
+Mark Otto, Sat Nov 30 23:35:08 2013 -0800 : grunt
+Mark Otto, Sat Nov 30 23:17:43 2013 -0800 : Fixes #11658: Increase min-height of .radio and .checkbox for horizontal forms to ensure alignment of content below
+Mark Otto, Sat Nov 30 23:08:41 2013 -0800 : Remove browser default top margin from dl elements
+Mark Otto, Sat Nov 30 23:04:55 2013 -0800 : Fixes #11623: Reset position to static for grid columns within tables to unfuck borders in IE9/10 and Firefox
+Mark Otto, Sat Nov 30 22:41:43 2013 -0800 : Shorten sticky footer examples footer content to prevent wrapping
+Mark Otto, Sat Nov 30 21:17:53 2013 -0800 : grunt
+Mark Otto, Sat Nov 30 21:05:39 2013 -0800 : Fixes #10716: Update what's included docs to add info on both download options
+Mark Otto, Sat Nov 30 16:37:49 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Nov 30 16:29:52 2013 -0800 : Fixes #11268: Account for badges within buttons by matching background to text color and text color to background
+Mark Otto, Sat Nov 30 16:26:38 2013 -0800 : Merge pull request #11217 from ZDroid/nest
+Mark Otto, Sat Nov 30 16:21:19 2013 -0800 : grunt
+Mark Otto, Sat Nov 30 16:18:07 2013 -0800 : Fixes #11277: Drop the abbr element from the .initialism selector
+Mark Otto, Sat Nov 30 16:16:24 2013 -0800 : Fixes #11420: Update migration guide on split of .visible-/.hidden-desktop into .visible-/.hidden-md and .visible-/.hidden-lg
+Mark Otto, Sat Nov 30 16:08:49 2013 -0800 : Fixes #11444: Use @navbar-padding-vertical for nav links padding
+Mark Otto, Sat Nov 30 15:57:25 2013 -0800 : Fixes #11402: Set width: auto; to select.form-control within .form-inline
+Mark Otto, Sat Nov 30 14:58:35 2013 -0800 : Fixes #11515: Reorder the headings with body text and text emphasis classes
+Mark Otto, Sat Nov 30 14:53:54 2013 -0800 : Fixes #11544: Add color: inherit; to .panel-title to ensure proper text color when customizing @headings-color
+Mark Otto, Sat Nov 30 13:09:55 2013 -0800 : Merge branch 'master' into pr/11648
+Mark Otto, Sat Nov 30 12:52:45 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Nov 30 12:52:08 2013 -0800 : Fixes #11351: Correct grid class reset on input groups by using attribute selector, not an old class from v3 betas
+Mark Otto, Sat Nov 30 12:47:07 2013 -0800 : Merge pull request #11398 from thelukemcdonald/master
+Mark Otto, Sat Nov 30 11:56:06 2013 -0800 : Fix up new margins on modals by not setting auto until screen-sm-min
+Mark Otto, Sat Nov 30 11:46:22 2013 -0800 : Merge pull request #11657 from ZDroid/homepage
+Mark Otto, Sat Nov 30 00:58:39 2013 -0800 : Merge pull request #11124 from StevenBlack/issue.11098
+Mark Otto, Sat Nov 30 00:55:00 2013 -0800 : Merge branch 'master' into pr/11299
+Mark Otto, Sat Nov 30 00:43:27 2013 -0800 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Nov 30 00:42:36 2013 -0800 : Alternate fix for #11303: add link to site in banner and remove @mdo and @fat usernames from it
+Mark Otto, Sat Nov 30 00:40:32 2013 -0800 : Merge pull request #11329 from ZDroid/patch-1
+Mark Otto, Sat Nov 30 00:39:00 2013 -0800 : Merge pull request #11330 from maxwellium/patch-1
+Mark Otto, Sat Nov 30 00:32:39 2013 -0800 : Merge pull request #11369 from ssorallen/speedier-js-loading
+Mark Otto, Sat Nov 30 00:26:53 2013 -0800 : Merge branch 'master' into pr/11388
+Mark Otto, Sat Nov 30 00:23:16 2013 -0800 : Merge pull request #11434 from ZDroid/fix-11433
+Mark Otto, Sat Nov 30 00:21:47 2013 -0800 : Merge pull request #11432 from masterbee/WCAG2-color-contrast
+Mark Otto, Fri Nov 29 23:55:43 2013 -0800 : Merge pull request #11502 from 1000hz/patch-1
+Mark Otto, Fri Nov 29 23:46:35 2013 -0800 : Merge pull request #11511 from ZDroid/fix-xs-comments
+Mark Otto, Fri Nov 29 23:45:35 2013 -0800 : Merge pull request #11585 from thriqon/master
+Mark Otto, Fri Nov 29 23:43:01 2013 -0800 : Merge pull request #11617 from guybedford/master
+Mark Otto, Fri Nov 29 23:30:26 2013 -0800 : Merge branch 'pr/11493'
+Mark Otto, Fri Nov 29 23:29:34 2013 -0800 : grunt to get dist files
+Mark Otto, Fri Nov 29 23:19:04 2013 -0800 : Fix #10979: Don't use .img-thumbnail as a mixin for .thumbnail to avoid dupe and unnecessary styles
+Mark Otto, Fri Nov 29 22:03:49 2013 -0800 : Fixes #11425: Use margin instead of padding on .modal-dialog to enable click-thru to .modal-backdrop
+Mark Otto, Fri Nov 29 21:59:28 2013 -0800 : Implement #11174 to fix #10936: increase height of large inputs to fix Firefox inconsistencies
+Mark Otto, Fri Nov 29 21:08:16 2013 -0800 : fixes #10699: use xs grid classes in regular thumbnail docs
+Mark Otto, Fri Nov 29 20:39:00 2013 -0800 : improve affix docs with step-by-step walk through of plugin behavior and required CSS
+Mark Otto, Fri Nov 29 20:25:07 2013 -0800 : Update scrollspy docs to more clearly indicate usage
+Mark Otto, Fri Nov 29 18:33:59 2013 -0800 : Fixes #11390: Add max-width to containers within jumbotrons to avoid horizontal scrollbar
+Mark Otto, Fri Nov 29 17:47:27 2013 -0800 : Fixes #11468: Prevent default gradient  on  in Firefox for Android
+Mark Otto, Thu Nov 28 15:55:17 2013 -0800 : Merge branch 'master' into pr/11414
+Mark Otto, Thu Nov 28 15:45:45 2013 -0800 : grunt
+Mark Otto, Thu Nov 28 15:37:11 2013 -0800 : Fixes #10147: Remove outline from carousel controls on focus
+Mark Otto, Thu Nov 28 14:22:31 2013 -0800 : Fixes #10483 and #10357: Make .container mixin-friendly by moving the width declarations within one class
+Mark Otto, Thu Nov 28 12:49:51 2013 -0800 : Fixes #11553: Prevent double border on tables in panels without thead content
+Mark Otto, Thu Nov 28 12:39:39 2013 -0800 : Fixes #11516: Invert dropdown divider border in navbars
+Mark Otto, Thu Nov 28 12:34:42 2013 -0800 : run grunt after last merge
+Mark Otto, Thu Nov 28 12:31:18 2013 -0800 : Merge pull request #11551 from masterbee/outlinetweak
+Mark Otto, Thu Nov 28 11:57:12 2013 -0800 : Merge branch 'master' into pr/11614
+Mark Otto, Thu Nov 28 11:38:28 2013 -0800 : Fixes #11634: Add warning to docs to not combine icon classes with other elements
+Mark Otto, Thu Nov 28 11:33:00 2013 -0800 : grunt after merge of last pr; unsure why, but this is rengerating the banners and spacing
+Mark Otto, Thu Nov 28 10:45:11 2013 -0800 : Merge pull request #11642 from tlindig/caret_color_fix
+Mark Otto, Tue Nov 26 15:21:27 2013 -0800 : run grunt
+Mark Otto, Fri Nov 22 22:09:04 2013 -0500 : Merge branch 'master' into docs_derp
+Mark Otto, Fri Nov 22 18:45:38 2013 -0500 : finish up moving content, tweaking styles
+Mark Otto, Mon Nov 18 13:42:52 2013 -0800 : Merge pull request #11526 from erikflowers/firefox-placeholder-fix
+Mark Otto, Sat Nov 16 22:02:59 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Sat Nov 16 18:01:59 2013 -0800 : fixes #11449: use menlo over monaco
+Mark Otto, Sat Nov 16 17:48:31 2013 -0800 : fixes #10744: back to solid borders on carets
+Mark Otto, Sat Nov 16 16:50:47 2013 -0800 : text size
+Mark Otto, Wed Nov 6 14:04:54 2013 -0800 : Merge branch 'master' into docs_derp
+Mark Otto, Wed Nov 6 13:10:51 2013 -0800 : grunt
+Mark Otto, Wed Nov 6 13:09:35 2013 -0800 : bump links to 3.0.2; change readme download to release URL format
+Mark Otto, Wed Nov 6 13:03:08 2013 -0800 : Fixes #11295: Restore offset, push, and pull zero classes (e.g., .col-md-offset-0)
+Mark Otto, Wed Nov 6 13:02:15 2013 -0800 : run grunt after version bumps
+Mark Otto, Wed Nov 6 12:57:28 2013 -0800 : bump versions to v3.0.2
+Mark Otto, Wed Nov 6 11:00:39 2013 -0800 : docs derp
+Mark Otto, Wed Oct 30 10:03:56 2013 -0700 : 3.0.1
+Mark Otto, Wed Oct 30 08:00:32 2013 -0700 : more grunt
+Mark Otto, Wed Oct 30 07:32:06 2013 -0700 : Merge pull request #11274 from wangsai/fix-examples-urls
+Mark Otto, Wed Oct 30 07:28:24 2013 -0700 : Merge pull request #11282 from ZDroid/combination
+Mark Otto, Mon Oct 28 21:55:08 2013 -0700 : run grunt
+Mark Otto, Mon Oct 28 21:50:05 2013 -0700 : restore IDs
+Mark Otto, Mon Oct 28 21:49:00 2013 -0700 : Merge branch 'respondjs-import-note'
+Mark Otto, Mon Oct 28 21:48:57 2013 -0700 : edit
+Mark Otto, Mon Oct 28 21:19:48 2013 -0700 : Fixes #10341: don't change border color on contextual table classes
+Mark Otto, Mon Oct 28 21:19:09 2013 -0700 : use regular text, not callouts
+Mark Otto, Mon Oct 28 20:51:39 2013 -0700 : Fixes #10516: Use auto positioning for dropdowns in justified nav to fix Firefox rendering
+Mark Otto, Mon Oct 28 20:36:40 2013 -0700 : Merge pull request #11258 from ZDroid/smoothing
+Mark Otto, Sun Oct 27 20:50:23 2013 -0700 : Merge pull request #11253 from ZDroid/ditch
+Mark Otto, Sun Oct 27 00:45:37 2013 -0700 : Merge pull request #11248 from tagliala/chrome-osx-select-print
+Mark Otto, Sat Oct 26 14:22:33 2013 +0100 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Oct 26 06:15:33 2013 -0700 : Merge pull request #11200 from yokomizor/variable_way_to_set_caret_width_base
+Mark Otto, Sat Oct 26 14:13:34 2013 +0100 : Fixes #11206: remove left padding on first inline list item
+Mark Otto, Sat Oct 26 14:12:07 2013 +0100 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Oct 26 05:49:58 2013 -0700 : Merge pull request #11244 from ZDroid/animation
+Mark Otto, Sat Oct 26 12:43:50 2013 +0100 : Remove multiple navbar z-index callout
+Mark Otto, Sat Oct 26 03:41:00 2013 -0700 : Merge pull request #11222 from ZDroid/patch-1
+Mark Otto, Sat Oct 26 01:17:53 2013 -0700 : Merge pull request #11224 from twbs/10506-doc
+Mark Otto, Tue Oct 22 13:45:41 2013 -0700 : Merge pull request #11209 from ZDroid/new_year
+Mark Otto, Mon Oct 21 08:58:38 2013 -0700 : Merge pull request #11192 from ZDroid/typo
+Mark Otto, Mon Oct 21 01:53:41 2013 -0700 : Fixes #10601: Use overflow-y: auto; for navbar collapse instead of visible to better enable scrolling on Android 4.x
+Mark Otto, Sun Oct 20 23:29:23 2013 -0700 : run grunt on last commit for gradient syntax change
+Mark Otto, Sun Oct 20 23:27:48 2013 -0700 : Merge pull request #10893 from Shaun-Dychko/patch--webkit-linear-gradient
+Mark Otto, Sun Oct 20 23:12:19 2013 -0700 : Merge pull request #10729 from lipis/patch-2
+Mark Otto, Sun Oct 20 22:56:29 2013 -0700 : more spacing
+Mark Otto, Sun Oct 20 22:55:45 2013 -0700 : Merge branch 'master' into pr/10656
+Mark Otto, Sun Oct 20 22:46:21 2013 -0700 : spacing
+Mark Otto, Sun Oct 20 22:43:03 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 20 22:41:57 2013 -0700 : Fixes #10620: remove gradient on buttons for IE9 in theme.less due to bleed through with rounded corners
+Mark Otto, Sun Oct 20 21:16:37 2013 -0700 : Merge pull request #11188 from twbs/navbar_zindex_auto
+Mark Otto, Sun Oct 20 21:12:09 2013 -0700 : Remove default z-index on navbar and only set on static and fixed variants
+Mark Otto, Sun Oct 20 21:11:51 2013 -0700 : Fix up padding on default navbar example
+Mark Otto, Sun Oct 20 20:30:16 2013 -0700 : Fixes #10433: Navbar z-index refactor
+Mark Otto, Sun Oct 20 20:04:10 2013 -0700 : fixes #11139: add position: relative; to .modal-dialog so that z-index takes effect
+Mark Otto, Sun Oct 20 19:55:56 2013 -0700 : Merge branch 'master' of https://github.com/jeonghwan-kim/bootstrap into jeonghwan-kim-master
+Mark Otto, Sun Oct 20 19:54:22 2013 -0700 : Fixes #10522: Enable use of form validation class on .radio, .checkbox, .radio-inline, and .checkbox-inline
+Mark Otto, Sun Oct 20 17:59:15 2013 -0700 : fixes #11126: remove box-shadow from open dropdown toggle with .btn-link
+Mark Otto, Sun Oct 20 17:48:36 2013 -0700 : Merge pull request #11186 from twbs/carousel_indicators_ie
+Mark Otto, Sun Oct 20 17:45:07 2013 -0700 : Merge branch 'master' into carousel_indicators_ie
+Mark Otto, Sun Oct 20 17:40:19 2013 -0700 : fixes #11151: remove unused h5bp class from print CSS
+Mark Otto, Sun Oct 20 16:53:57 2013 -0700 : Merge branch 'master' into carousel_indicators_ie
+Mark Otto, Sun Oct 20 16:53:45 2013 -0700 : mo grunt
+Mark Otto, Sun Oct 20 16:49:18 2013 -0700 : Merge branch 'master' into carousel_indicators_ie
+Mark Otto, Sun Oct 20 16:48:52 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 20 16:48:42 2013 -0700 : run grunt dist
+Mark Otto, Sun Oct 20 16:46:38 2013 -0700 : Fixes #10903 and #10457: IE8-9 don't support events on elements without background-color, so we have to hack it
+Mark Otto, Sun Oct 20 14:55:10 2013 -0700 : Merge pull request #11183 from ZDroid/patch-1
+Mark Otto, Thu Oct 17 19:17:05 2013 -0700 : Merge pull request #11155 from twbs/ie8-file-proto-respond.js-examples-warnings
+Mark Otto, Thu Oct 17 19:16:12 2013 -0700 : Merge pull request #11156 from twbs/mobile-modals-xref
+Mark Otto, Thu Oct 17 14:53:50 2013 -0700 : Merge pull request #11096 from twbs/navbar-button-docs
+Mark Otto, Thu Oct 17 14:47:31 2013 -0700 : Merge branch 'master' into navbar-button-docs
+Mark Otto, Thu Oct 17 14:47:27 2013 -0700 : copy change, add to buttons anchor section
+Mark Otto, Thu Oct 17 14:11:46 2013 -0700 : Merge branch 'fix-11112'
+Mark Otto, Thu Oct 17 14:11:40 2013 -0700 : even shorter banner; remove space between slash and period
+Mark Otto, Wed Oct 16 17:28:46 2013 -0700 : Merge pull request #11137 from twbs/explain-https
+Mark Otto, Wed Oct 16 10:44:03 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Oct 16 10:43:56 2013 -0700 : redo the glyphicons icons list to make icons not blurry on edges /cc @jankovarik
+Mark Otto, Tue Oct 15 17:07:22 2013 -0700 : Merge pull request #11110 from nikolawannabe/patch-1
+Mark Otto, Tue Oct 15 14:11:29 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Oct 15 14:11:21 2013 -0700 : update jumbotron docs; fixes #11109
+Mark Otto, Tue Oct 15 13:12:46 2013 -0700 : Merge pull request #11105 from twbs/license-note
+Mark Otto, Tue Oct 15 11:19:24 2013 -0700 : Merge pull request #11102 from ZDroid/less-fix
+Mark Otto, Mon Oct 14 22:08:23 2013 -0700 : nuke commented out docs css
+Mark Otto, Mon Oct 14 20:21:17 2013 -0700 : Merge pull request #11094 from twbs/address-10049
+Mark Otto, Mon Oct 14 19:56:33 2013 -0700 : Merge pull request #10533 from topsitemakers/master
+Mark Otto, Mon Oct 14 16:14:28 2013 -0700 : Merge pull request #11091 from yokomizor/extended_thumbnail_hover_state
+Mark Otto, Mon Oct 14 13:45:57 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Oct 14 13:45:32 2013 -0700 : unnest the list-group-item link variation for #11085 and #11088
+Mark Otto, Mon Oct 14 11:33:27 2013 -0700 : Merge pull request #11084 from ZDroid/variable_way
+Mark Otto, Mon Oct 14 11:32:46 2013 -0700 : Merge pull request #11086 from twbs/table-responsive-breakpoint
+Mark Otto, Mon Oct 14 11:30:06 2013 -0700 : fix about page html validation and run grunt
+Mark Otto, Mon Oct 14 11:06:25 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Oct 14 11:05:49 2013 -0700 : remove dupe content
+Mark Otto, Mon Oct 14 09:09:02 2013 -0700 : Merge pull request #11078 from twbs/issue-11019-note
+Mark Otto, Mon Oct 14 09:08:28 2013 -0700 : Merge pull request #11082 from ZDroid/nuke_zeros
+Mark Otto, Sun Oct 13 23:25:23 2013 -0700 : Merge pull request #11077 from twbs/avoid-docs-assets-in-example
+Mark Otto, Sun Oct 13 23:24:35 2013 -0700 : Merge pull request #11075 from twbs/respond-js-cross-domain-note
+Mark Otto, Sun Oct 13 23:19:17 2013 -0700 : Merge branch 'docs_welcome'
+Mark Otto, Sun Oct 13 23:19:11 2013 -0700 : add translations, copy edit a few things, and fix alignment of ads
+Mark Otto, Sun Oct 13 20:26:36 2013 -0700 : Merge pull request #11046 from ZDroid/patch-3
+Mark Otto, Sun Oct 13 20:12:07 2013 -0700 : run grunt
+Mark Otto, Sun Oct 13 20:04:28 2013 -0700 : no trailing decimal place
+Mark Otto, Sun Oct 13 20:04:00 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 13 20:03:02 2013 -0700 : Merge pull request #10949 from StevenBlack/jumbotron.fontsize
+Mark Otto, Sun Oct 13 20:02:24 2013 -0700 : scope top padding of .form-control-static to be within horizontal forms only; fixes #10927
+Mark Otto, Sun Oct 13 19:59:42 2013 -0700 : move .hidden to utilities; fixes #10997
+Mark Otto, Sun Oct 13 19:57:45 2013 -0700 : run grunt on that scaffolding change
+Mark Otto, Sun Oct 13 19:57:23 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 13 19:57:14 2013 -0700 : fix #10257
+Mark Otto, Sun Oct 13 19:41:12 2013 -0700 : Merge pull request #10955 from ZDroid/patch-1
+Mark Otto, Sun Oct 13 19:36:39 2013 -0700 : clarify more grid stuff, specifically 100% fluid designs; fixes #10711
+Mark Otto, Sun Oct 13 19:31:39 2013 -0700 : mention rows must be in containers in grid docs
+Mark Otto, Sun Oct 13 19:24:13 2013 -0700 : docs notice for #11010
+Mark Otto, Sun Oct 13 19:12:23 2013 -0700 : follow up to #10102, cc @cvrebert
+Mark Otto, Sun Oct 13 19:10:17 2013 -0700 : add docs example for #10938 to show responsive column clearing in grid
+Mark Otto, Sun Oct 13 19:03:29 2013 -0700 : Merge pull request #11050 from twbs/restore_grid_mixins
+Mark Otto, Sun Oct 13 18:59:40 2013 -0700 : Merge branch 'master' into restore_grid_mixins
+Mark Otto, Sun Oct 13 18:58:09 2013 -0700 : comment and spacing
+Mark Otto, Sun Oct 13 18:56:31 2013 -0700 : drop .tabbable since it's unused and undocumented /cc #10102
+Mark Otto, Sun Oct 13 18:56:03 2013 -0700 : mention .invisible in docs per #10102
+Mark Otto, Sun Oct 13 18:54:15 2013 -0700 : mention .invisible in docs per #10102
+Mark Otto, Sun Oct 13 18:49:13 2013 -0700 : mention tooltip markup in docs per #10102
+Mark Otto, Sun Oct 13 18:44:06 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 13 18:43:19 2013 -0700 : mention .modal-open and .modal-backdrop in docs /cc #10102
+Mark Otto, Sun Oct 13 18:40:47 2013 -0700 : mention .dropdown-backdrop and .open in dropdown docs /cc #10102
+Mark Otto, Sun Oct 13 18:35:10 2013 -0700 : Merge pull request #11016 from twbs/address-10965
+Mark Otto, Sun Oct 13 18:32:34 2013 -0700 : Merge branch 'master' into restore_grid_mixins
+Mark Otto, Sun Oct 13 17:25:27 2013 -0700 : another grid .row mention
+Mark Otto, Sun Oct 13 17:12:04 2013 -0700 : finish grid docs intro for now; needs work though
+Mark Otto, Sun Oct 13 16:02:56 2013 -0700 : mention .small in docs /cc #10102
+Mark Otto, Sun Oct 13 15:55:13 2013 -0700 : remove undocumented and unsupported .pill-content and .pill-pane /cc #10102
+Mark Otto, Sun Oct 13 15:54:49 2013 -0700 : run grunt dist on .small additions
+Mark Otto, Sun Oct 13 15:24:48 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 13 15:24:39 2013 -0700 : remove screen from all docs media queries
+Mark Otto, Sun Oct 13 15:23:58 2013 -0700 : Document caret /cc #10102
+Mark Otto, Sat Oct 12 16:58:49 2013 -0700 : Merge pull request #11059 from ZDroid/patch-5
+Mark Otto, Sat Oct 12 15:35:07 2013 -0700 : Merge pull request #10933 from ZDroid/patch-2
+Mark Otto, Fri Oct 11 22:01:11 2013 -0700 : restore var to customizer
+Mark Otto, Fri Oct 11 22:00:37 2013 -0700 : Combine separate efforts for grid mixins into one, cleanup and reorganize
+Mark Otto, Fri Oct 11 18:52:57 2013 -0700 : Merge pull request #11049 from alexdahl/multiple-modals-doc
+Mark Otto, Thu Oct 10 13:37:06 2013 -0700 : Merge pull request #11018 from twbs/use-https
+Mark Otto, Wed Oct 9 20:05:21 2013 -0700 : Merge pull request #11013 from twbs/fix-10989
+Mark Otto, Wed Oct 9 10:12:17 2013 -0700 : Merge pull request #10998 from ZDroid/patch-7
+Mark Otto, Mon Oct 7 15:00:46 2013 -0500 : Fixes #10126: Update responsive test cases to properly highlight hidden class examples
+Mark Otto, Mon Oct 7 14:39:11 2013 -0500 : Half fix for #9855: Don't fuck with margins for open modal dialog on account of Lion non-scrollbars and inconsistencies elsewhere
+Mark Otto, Mon Oct 7 14:32:29 2013 -0500 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Oct 7 14:32:23 2013 -0500 : Fixes #10959: round the .lead values down to nearest pixel via floor()
+Mark Otto, Mon Oct 7 14:31:41 2013 -0500 : run grunt
+Mark Otto, Sun Oct 6 19:06:40 2013 -0500 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 6 18:35:07 2013 -0500 : update gitignore to restore the ruby-version ignore and rename section to all docs stuff
+Mark Otto, Sun Oct 6 17:24:32 2013 -0500 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Oct 6 17:24:26 2013 -0500 : fixes #10961: change variable names in grid docs
+Mark Otto, Sat Oct 5 10:59:44 2013 -0700 : Merge pull request #10950 from twbs/docs-navbar-class
+Mark Otto, Sat Oct 5 11:44:41 2013 -0500 : merge in new ads
+Mark Otto, Wed Oct 2 10:59:03 2013 -0700 : Merge pull request #10908 from ZDroid/patch-4
+Mark Otto, Tue Oct 1 11:37:53 2013 -0500 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Oct 1 11:37:47 2013 -0500 : run grunt
+Mark Otto, Mon Sep 30 17:15:15 2013 -0700 : Merge pull request #10864 from akalicki/included_files
+Mark Otto, Mon Sep 30 17:11:55 2013 -0700 : Merge pull request #10856 from akalicki/grid_class_docs
+Mark Otto, Mon Sep 30 17:10:48 2013 -0700 : Merge pull request #10865 from Quy/master
+Mark Otto, Mon Sep 30 17:08:09 2013 -0700 : Merge pull request #10883 from ZDroid/patch-3
+Mark Otto, Mon Sep 30 17:07:19 2013 -0700 : Merge pull request #10889 from twbs/contextual-table-docs-xs
+Mark Otto, Mon Sep 30 17:06:31 2013 -0700 : Merge pull request #10888 from twbs/favor-xs-in-docs
+Mark Otto, Tue Sep 24 21:27:49 2013 -0500 : don't include . in link
+Mark Otto, Tue Sep 24 19:26:58 2013 -0700 : Merge pull request #10797 from twbs/input-groups-xref
+Mark Otto, Tue Sep 24 18:37:13 2013 -0700 : Merge pull request #10796 from twbs/skip-to-main-content
+Mark Otto, Tue Sep 24 17:24:00 2013 -0700 : Merge pull request #10786 from acspike/skip-nav-link-wording
+Mark Otto, Tue Sep 24 17:16:06 2013 -0700 : Merge pull request #10790 from twbs/disable-compatibility-mode
+Mark Otto, Mon Sep 23 19:10:38 2013 -0700 : Merge pull request #10768 from twbs/polaroid-thumbnail-docs
+Mark Otto, Mon Sep 23 19:08:50 2013 -0700 : Merge pull request #10770 from twbs/rename-assets
+Mark Otto, Mon Sep 23 19:08:01 2013 -0700 : Merge pull request #10769 from twbs/deprecate-hide
+Mark Otto, Sun Sep 22 16:53:01 2013 -0700 : Merge pull request #10695 from FredericoC/fix-nav-active-caret
+Mark Otto, Sun Sep 22 07:25:33 2013 -0700 : Merge pull request #10741 from ZDroid/patch-1
+Mark Otto, Sun Sep 22 09:20:15 2013 -0500 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Sep 22 09:19:37 2013 -0500 : Fixes #10755: Don't remove quotes around q element by default
+Mark Otto, Fri Sep 20 22:14:57 2013 -0700 : Merge pull request #10693 from twbs/include-docs-license
+Mark Otto, Thu Sep 19 22:57:11 2013 -0500 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Sep 19 22:56:17 2013 -0500 : Fixes #10694: Remove unnecessary `content` property from `.caret`
+Mark Otto, Thu Sep 19 17:20:47 2013 -0700 : Merge pull request #10724 from ZDroid/patch-1
+Mark Otto, Mon Sep 16 22:00:39 2013 -0700 : Merge pull request #10626 from buob/variablize-nav-pill-border-radius
+Mark Otto, Mon Sep 16 21:53:27 2013 -0700 : Merge pull request #10641 from ggam/remove-accordion
+Mark Otto, Mon Sep 16 21:49:12 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Sep 16 21:49:01 2013 -0700 : Merge pull request #10655 from Soben713/master
+Mark Otto, Mon Sep 16 21:43:55 2013 -0700 : run grunt
+Mark Otto, Mon Sep 16 21:42:43 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Sep 16 20:36:04 2013 -0700 : Merge pull request #10663 from lipis/patch-1
+Mark Otto, Mon Sep 16 18:59:06 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Sep 16 18:58:52 2013 -0700 : fixes #9908: add type attribute to customizer compile button to prevent accidental submissions
+Mark Otto, Fri Sep 13 11:49:11 2013 -0700 : Merge pull request #10623 from jdorfman/jdorfman-maxcdn-link
+Mark Otto, Thu Sep 12 19:40:42 2013 -0700 : Merge pull request #10598 from ZDroid/patch-1
+Mark Otto, Thu Sep 12 09:04:52 2013 -0700 : Merge pull request #10602 from mikefrancis/patch-2
+Mark Otto, Wed Sep 11 23:19:56 2013 -0700 : Merge pull request #10573 from gribelu/tooltip-fix
+Mark Otto, Wed Sep 11 23:13:28 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 11 23:11:18 2013 -0700 : Fixes #10492: Account for responsive tables in panels
+Mark Otto, Wed Sep 11 23:07:47 2013 -0700 : Merge pull request #10569 from ZDroid/patch-2
+Mark Otto, Wed Sep 11 23:02:11 2013 -0700 : Merge pull request #10594 from twbs/navbar-form-labels-warning
+Mark Otto, Wed Sep 11 21:14:25 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 11 21:14:10 2013 -0700 : Massive customizer audit and overhaul
+Mark Otto, Wed Sep 11 21:12:58 2013 -0700 : Remove unneeded comment in layouts
+Mark Otto, Wed Sep 11 20:22:33 2013 -0700 : Merge pull request #10590 from twbs/doc-jquery-version
+Mark Otto, Wed Sep 11 16:59:51 2013 -0700 : scope customizer h4 change
+Mark Otto, Wed Sep 11 16:35:27 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 11 16:35:00 2013 -0700 : run grunt
+Mark Otto, Wed Sep 11 16:19:12 2013 -0700 : Merge pull request #10584 from twbs/ie_viewports
+Mark Otto, Wed Sep 11 16:15:12 2013 -0700 : Merge branch 'ie_viewports' of github.com:twbs/bootstrap into ie_viewports
+Mark Otto, Wed Sep 11 16:06:43 2013 -0700 : fixes #10497: Fix Windows 8 and Windows Phone 8 behavior and apply it to the docs
+Mark Otto, Wed Sep 11 14:56:02 2013 -0700 : remove unnecessary right and left properties on .modal-dialog
+Mark Otto, Wed Sep 11 14:46:31 2013 -0700 : fixes #10497: Fix Windows 8 and Windows Phone 8 behavior and apply it to the docs
+Mark Otto, Wed Sep 11 12:49:24 2013 -0700 : Merge pull request #10338 from twbs/readd-optin-notes
+Mark Otto, Wed Sep 11 12:31:21 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 11 12:30:46 2013 -0700 : move to separate about page
+Mark Otto, Wed Sep 11 11:09:50 2013 -0700 : Remove old and unused .prettyprint styles in code.less (per #10566)
+Mark Otto, Tue Sep 10 21:46:12 2013 -0700 : Remove multiple touch icons and roll with a single one
+Mark Otto, Tue Sep 10 21:38:24 2013 -0700 : Merge pull request #9989 from eins78/more-monospace-elements
+Mark Otto, Tue Sep 10 21:27:07 2013 -0700 : Merge pull request #10565 from twbs/gruntfile-css-banner
+Mark Otto, Tue Sep 10 21:25:31 2013 -0700 : Merge pull request #10560 from ZDroid/patch-1
+Mark Otto, Mon Sep 9 13:56:10 2013 -0700 : fixes #9985: update grid classes in grid example
+Mark Otto, Mon Sep 9 13:22:34 2013 -0700 : Merge pull request #10542 from twbs/controls-migration-docs
+Mark Otto, Mon Sep 9 10:19:53 2013 -0700 : dat hash
+Mark Otto, Mon Sep 9 09:51:38 2013 -0700 : dat @juthilo edit
+Mark Otto, Mon Sep 9 08:34:21 2013 -0700 : Copy edits from @cvrebert and @juthilo
+Mark Otto, Sun Sep 8 20:39:07 2013 -0700 : Merge branch 'master' into docs_welcome
+Mark Otto, Sun Sep 8 20:03:52 2013 -0700 : fixes #10526: Remove custom background on responsive tables and set it in the docs where it should've been originally
+Mark Otto, Sun Sep 8 19:56:11 2013 -0700 : use irc link
+Mark Otto, Sun Sep 8 19:49:40 2013 -0700 : shorter avatar urls
+Mark Otto, Sun Sep 8 18:37:39 2013 -0700 : Add Welcome section to docs
+Mark Otto, Sun Sep 8 16:58:56 2013 -0700 : Match order of vars to order of components; darken some alert borders
+Mark Otto, Sun Sep 8 08:04:19 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Sep 8 08:04:11 2013 -0700 : fixes #10521: Only remove bottom-border from last row of cells in tbody and tfoot within responsive tables
+Mark Otto, Fri Sep 6 09:57:25 2013 -0700 : Run grunt to gen raw files
+Mark Otto, Fri Sep 6 09:57:19 2013 -0700 : Remove nav from jumbotron example (temp fix for #10228)
+Mark Otto, Fri Sep 6 09:50:38 2013 -0700 : fixes #10024: Use negative margin to fix the border between button and input in input groups
+Mark Otto, Fri Sep 6 09:31:36 2013 -0700 : Merge pull request #9968 from thelukemcdonald/master
+Mark Otto, Fri Sep 6 09:23:49 2013 -0700 : Merge branch 'master' of https://github.com/nuttertag/bootstrap into nuttertag-master
+Mark Otto, Fri Sep 6 09:22:34 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Sep 6 09:22:19 2013 -0700 : fix broke width of containers in docs given change to use width over max-width
+Mark Otto, Fri Sep 6 09:18:00 2013 -0700 : Merge pull request #10025 from barryvdh/patch-2
+Mark Otto, Fri Sep 6 09:11:26 2013 -0700 : Merge branch 'GSEdits7' of https://github.com/StevenBlack/bootstrap into StevenBlack-GSEdits7
+Mark Otto, Fri Sep 6 09:03:50 2013 -0700 : fixes #10491: new docs background base64 image
+Mark Otto, Thu Sep 5 15:10:56 2013 -0700 :  account for last child bottom border; use 0 instead of none
+Mark Otto, Thu Sep 5 00:11:04 2013 -0700 : Merge pull request #10453 from ckundo/add-dropdown-button-text
+Mark Otto, Wed Sep 4 18:52:45 2013 -0700 : Fixes #10452: Add note about deprecation of .nav-divider
+Mark Otto, Wed Sep 4 17:58:01 2013 -0700 : add docs callout to mention #9947
+Mark Otto, Wed Sep 4 17:46:39 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 4 17:46:25 2013 -0700 : fixes #10449: use th with scope in table; add scope to th in thead
+Mark Otto, Wed Sep 4 13:56:32 2013 -0700 : Fixes #10399: Add hover styles to text emphasis classes
+Mark Otto, Wed Sep 4 12:16:46 2013 -0700 : polish off #10227 with an inline comment
+Mark Otto, Wed Sep 4 12:16:14 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 4 12:15:45 2013 -0700 : Merge pull request #10227 from UTCWebDev/master
+Mark Otto, Wed Sep 4 12:08:07 2013 -0700 : Fixes #10417: Document `.hidden` in the Helper classes *Screen reader content* section
+Mark Otto, Wed Sep 4 11:41:20 2013 -0700 : Merge pull request #10421 from StevenBlack/GSEdits6
+Mark Otto, Wed Sep 4 09:09:22 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Sep 4 09:08:52 2013 -0700 : Fixes #10436: use screen-sm var instead of hardcoded pixel value
+Mark Otto, Tue Sep 3 20:17:45 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Sep 3 20:11:27 2013 -0700 : Fixes #10407: Add line-height to progress bar for proper text alignment within
+Mark Otto, Tue Sep 3 18:43:42 2013 -0700 : Merge branch 'master' into carousel-glyphicons-mainstream
+Mark Otto, Tue Sep 3 18:31:02 2013 -0700 : dat grunt
+Mark Otto, Tue Sep 3 18:21:28 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Sep 3 18:20:43 2013 -0700 : Merge branch 'color-code-IE89-table'
+Mark Otto, Tue Sep 3 18:20:21 2013 -0700 : Color code IE8-9 table with text classes and Glyhpicons instead of table classes
+Mark Otto, Tue Sep 3 18:09:49 2013 -0700 : Merge pull request #10413 from twbs/carousel-transitions-no-fallback-note
+Mark Otto, Tue Sep 3 15:52:28 2013 -0700 : Merge pull request #10408 from twbs/getting-started-minor-edits
+Mark Otto, Tue Sep 3 15:50:44 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Sep 3 15:49:03 2013 -0700 : fixes #10406: Update grid to use width on .container instead of max-width as IE8 improperly computes width
+Mark Otto, Tue Sep 3 15:35:48 2013 -0700 : remove min-height from ads because ie8
+Mark Otto, Tue Sep 3 15:33:36 2013 -0700 : more space below links on homepage
+Mark Otto, Tue Sep 3 07:31:00 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Sep 3 07:30:46 2013 -0700 : fixes #10396: mention table class change in migration docs
+Mark Otto, Tue Sep 3 02:28:01 2013 -0700 : Merge pull request #10375 from StevenBlack/GSEdits4
+Mark Otto, Tue Sep 3 01:04:17 2013 -0700 : remove unused .panel-collapse ruleset
+Mark Otto, Tue Sep 3 00:55:29 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Sep 3 00:49:59 2013 -0700 : mo betta docs on box-sizing to build on e521ee83094f5a70978cc9d879f400c3ac95369c
+Mark Otto, Mon Sep 2 20:20:47 2013 -0700 : fixes #10372: two download buttons on homepage; also fixes broke button styles
+Mark Otto, Mon Sep 2 20:13:57 2013 -0700 : Merge pull request #10382 from StevenBlack/GSEdits5
+Mark Otto, Mon Sep 2 19:53:20 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Sep 2 19:52:59 2013 -0700 : update box-sizing third party support section to include mention of google CSE and expand to include CSS and Less options
+Mark Otto, Sun Sep 1 20:52:23 2013 -0700 : derp, add on to #10153 with proper variable /cc @ggam
+Mark Otto, Mon Sep 2 00:10:35 2013 +0200 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Mon Sep 2 00:09:49 2013 +0200 : fixes #10316: Document .active and :active for buttons
+Mark Otto, Sun Sep 1 14:59:34 2013 -0700 : Merge pull request #10342 from twbs/affix-docs
+Mark Otto, Sun Sep 1 23:58:22 2013 +0200 : fixes #10344: Update IE8-9 support section with table of specific CSS3 and HTML5 features and their support in Bootstrap
+Mark Otto, Sun Sep 1 23:46:23 2013 +0200 : Remove links to navbar examples from example navbars in Theme example--nullifies #9894
+Mark Otto, Sun Sep 1 23:40:04 2013 +0200 : update vars to use new component-active-color
+Mark Otto, Sun Sep 1 23:38:11 2013 +0200 : fixes #9909: Add component active color variable to complement component active bg variable
+Mark Otto, Sun Sep 1 23:32:35 2013 +0200 : alt fix to #10278: Change Google Maps compatibility warning to a general box-sizing warning
+Mark Otto, Sun Sep 1 21:55:59 2013 +0200 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Sep 1 11:21:14 2013 +0200 : fixes #10164: Document .center-block mixin and update CSS to include it as a class as well
+Mark Otto, Sun Sep 1 11:06:33 2013 +0200 : reverse vars for backwards compatibility /cc @cvrebert
+Mark Otto, Sun Sep 1 11:05:14 2013 +0200 : Merge branch 'deprecate_screen_containers'
+Mark Otto, Sun Sep 1 11:03:19 2013 +0200 : fixes #10115: Default carousel controls and Glyphicon controls should behave the same on small devices and up
+Mark Otto, Sun Sep 1 11:00:40 2013 +0200 : fixes #10111: different colors for dropdown link hover and active states
+Mark Otto, Sun Sep 1 10:34:21 2013 +0200 : fixes alignment and nav list in offcanvas example
+Mark Otto, Sun Sep 1 10:27:20 2013 +0200 : fixes #10282: Cross reference tabs and tabs plugin
+Mark Otto, Sun Sep 1 10:21:27 2013 +0200 : fixes #10277: Mention removal of navbar vertical dividers in migration docs
+Mark Otto, Sun Sep 1 10:19:55 2013 +0200 : remove unused link from navs section
+Mark Otto, Sun Sep 1 10:18:54 2013 +0200 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Sep 1 10:15:39 2013 +0200 : finishes #10256 to add updated var to customizer; also fixes another old var
+Mark Otto, Sun Sep 1 10:13:47 2013 +0200 : Merge branch 'master' into tagliala-patch-1
+Mark Otto, Sun Sep 1 01:09:55 2013 -0700 : Merge pull request #10249 from coliff/patch-1
+Mark Otto, Sun Sep 1 10:07:15 2013 +0200 : fixes #10246: Use correct variable for link hover color in Customizer
+Mark Otto, Sun Sep 1 10:04:54 2013 +0200 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sun Sep 1 10:04:44 2013 +0200 : better layout
+Mark Otto, Sun Sep 1 10:04:03 2013 +0200 : finishes #10245 by adding it the new var to the customizer
+Mark Otto, Sun Sep 1 10:01:57 2013 +0200 : Merge branch 'master' into dancek-breadcrumb-separator
+Mark Otto, Sun Sep 1 00:59:55 2013 -0700 : Merge pull request #10232 from twbs/table-nesting
+Mark Otto, Sun Sep 1 09:59:27 2013 +0200 : Merge branch 'master' into table-nesting
+Mark Otto, Sun Sep 1 09:53:41 2013 +0200 : fixes #10223: adds color to input addon
+Mark Otto, Sun Sep 1 09:49:28 2013 +0200 : fixes #10153: restore headings-color variable
+Mark Otto, Sun Sep 1 09:46:33 2013 +0200 : fixes #10136
+Mark Otto, Sun Sep 1 09:33:11 2013 +0200 : Merge branch 'master' into deprecate_screen_containers
+Mark Otto, Sun Sep 1 08:18:46 2013 +0200 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Aug 31 23:17:54 2013 -0700 : Merge pull request #10299 from StevenBlack/GettingStartedEdits1
+Mark Otto, Sat Aug 31 23:15:47 2013 -0700 : Merge pull request #10323 from StevenBlack/GSEdits3
+Mark Otto, Sun Sep 1 08:13:51 2013 +0200 : Merge branch 'patch-1' of https://github.com/tagliala/bootstrap into tagliala-patch-1
+Mark Otto, Sun Sep 1 08:12:56 2013 +0200 : Merge branch 'breadcrumb-separator' of https://github.com/dancek/bootstrap into dancek-breadcrumb-separator
+Mark Otto, Sat Aug 31 09:04:17 2013 +0200 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Aug 30 23:31:30 2013 -0700 : Merge pull request #10265 from twbs/fix-10252
+Mark Otto, Tue Aug 27 09:21:09 2013 -0700 : Fixes #10154: add .small
+Mark Otto, Tue Aug 27 09:15:30 2013 -0700 : Merge pull request #10222 from jodytate/upstream
+Mark Otto, Tue Aug 27 09:10:06 2013 -0700 : Fixes #9928 and #9932: carousel example in IE10
+Mark Otto, Tue Aug 27 08:53:48 2013 -0700 : fixes #9901
+Mark Otto, Tue Aug 27 08:34:17 2013 -0700 : Fixes #10082: document `.navbar-form`
+Mark Otto, Tue Aug 27 08:23:40 2013 -0700 : Merge pull request #10131 from andyen/master
+Mark Otto, Tue Aug 27 08:19:51 2013 -0700 : Fixes #10088: Simpler nested headings section in accessibility docs
+Mark Otto, Tue Aug 27 08:05:54 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Tue Aug 27 08:05:26 2013 -0700 : Fixes #9991: Better docs for tabbable tabs and fade classes
+Mark Otto, Tue Aug 27 07:58:49 2013 -0700 : Merge pull request #10215 from XhmikosR/master
+Mark Otto, Tue Aug 27 07:50:23 2013 -0700 : Merge pull request #10208 from javiereguiluz/patch-2
+Mark Otto, Tue Aug 27 07:43:17 2013 -0700 : Merge pull request #10209 from clbn/master
+Mark Otto, Mon Aug 26 18:19:31 2013 -0700 : Fixes #10016 and updates that rather badly formatted callout
+Mark Otto, Mon Aug 26 17:58:15 2013 -0700 : Improve upon #9937: Link and put reset column stuff to action in the grid example
+Mark Otto, Mon Aug 26 17:48:32 2013 -0700 : Add margin to thumbnails for proper spacing
+Mark Otto, Mon Aug 26 17:47:56 2013 -0700 : Fixes #10137: correct classes on thumbnails
+Mark Otto, Mon Aug 26 17:37:52 2013 -0700 : Address #9873 and fix #9774
+Mark Otto, Sun Aug 25 00:36:03 2013 -0700 : Merge pull request #10129 from pixelchutes/fix-3.0-migration-changes
+Mark Otto, Sat Aug 24 21:23:38 2013 -0700 : Merge pull request #10128 from leoj3n/alert-block-remove
+Mark Otto, Sat Aug 24 14:47:58 2013 -0700 : update raw files (should fix builds)
+Mark Otto, Sat Aug 24 14:40:36 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Aug 24 14:40:24 2013 -0700 : fixes #9887: documents show and hide classes
+Mark Otto, Sat Aug 24 14:31:33 2013 -0700 : Merge pull request #10112 from kevinSuttle/button-roles
+Mark Otto, Sat Aug 24 14:00:52 2013 -0700 : Deprecate container-{device} vars for container-{size} classes; updates customizer and grid to do the same
+Mark Otto, Sat Aug 24 13:59:03 2013 -0700 : grunt dist on glyphicons width change
+Mark Otto, Sat Aug 24 13:41:24 2013 -0700 : Merge pull request #9996 from jodytate/master
+Mark Otto, Sat Aug 24 12:30:46 2013 -0700 : forgot a pair of buttons
+Mark Otto, Sat Aug 24 12:29:45 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Sat Aug 24 11:46:24 2013 -0700 : turn some buttons into <button> elements where possible
+Mark Otto, Sat Aug 24 01:33:04 2013 -0700 : Merge pull request #10103 from hero-m/patch-1
+Mark Otto, Sat Aug 24 00:19:37 2013 -0700 : Merge pull request #10059 from felixhirschfeld/patch-1
+Mark Otto, Sat Aug 24 00:15:34 2013 -0700 : Merge pull request #10022 from thomaswelton/proposal-glyphicon-block
+Mark Otto, Sat Aug 24 00:14:09 2013 -0700 : fixes #9969: add support for output element
+Mark Otto, Fri Aug 23 23:59:11 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Aug 23 23:58:38 2013 -0700 : Remove footnote links and inline them; link to contributing guidelines in readme
+Mark Otto, Fri Aug 23 23:52:24 2013 -0700 : Merge pull request #9964 from thomaswelton/patch-1
+Mark Otto, Fri Aug 23 23:40:12 2013 -0700 : Merge branch 'master' of https://github.com/charnog/bootstrap into charnog-master
+Mark Otto, Fri Aug 23 23:39:11 2013 -0700 : fixes #9876: avoid dropdowns in navbar examples to prevent overlap
+Mark Otto, Fri Aug 23 23:33:16 2013 -0700 : follow up to #9963 and #10005: update docs to use .screen-*-min vars, update customizer as well; run grunt to adjust raw files
+Mark Otto, Fri Aug 23 23:32:16 2013 -0700 : grunt on previous ms scroll fix
+Mark Otto, Fri Aug 23 23:19:05 2013 -0700 : Merge pull request #10057 from sambowler/patch-1
+Mark Otto, Fri Aug 23 23:16:37 2013 -0700 : Merge branch 'master' of https://github.com/apexskier/bootstrap into apexskier-master
+Mark Otto, Fri Aug 23 23:14:13 2013 -0700 : Merge pull request #10005 from twbs/deprecate-screen-device-vars
+Mark Otto, Fri Aug 23 22:56:23 2013 -0700 : Merge branch 'master' into deprecate-screen-device-vars
+Mark Otto, Fri Aug 23 22:51:39 2013 -0700 : more specific deprecation comment
+Mark Otto, Fri Aug 23 22:50:41 2013 -0700 : Merge pull request #9963 from twbs/min-breakpoint-naming
+Mark Otto, Fri Aug 23 22:38:51 2013 -0700 : Use jekyll var for current version in docs; update banner in gruntfile to match .less banner
+Mark Otto, Fri Aug 23 22:19:58 2013 -0700 : split mixin and grunt dist to be sure
+Mark Otto, Fri Aug 23 22:11:41 2013 -0700 : Deprecate .hide-text mixin for .text-hide as mixin and class
+Mark Otto, Fri Aug 23 22:01:42 2013 -0700 : Document .hide-text and .text-hide
+Mark Otto, Fri Aug 23 22:00:54 2013 -0700 : Rearrange helper classes docs section; add subnav list items to docs side nav
+Mark Otto, Fri Aug 23 21:45:58 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Aug 23 21:45:46 2013 -0700 : fixes #10095: note about backwards incompatibility
+Mark Otto, Fri Aug 23 21:34:44 2013 -0700 : Merge pull request #10098 from wangsai/fix-form
+Mark Otto, Fri Aug 23 21:34:25 2013 -0700 : Merge pull request #10097 from wangsai/complete-td
+Mark Otto, Fri Aug 23 14:26:40 2013 -0700 : Merge pull request #9966 from twbs/header-font-size-vars
+Mark Otto, Fri Aug 23 14:26:16 2013 -0700 : run grunt
+Mark Otto, Fri Aug 23 14:23:13 2013 -0700 : Run grunt dist on theme for some reason
+Mark Otto, Fri Aug 23 14:22:51 2013 -0700 : Update and document use of `small` in headings
+Mark Otto, Fri Aug 23 14:00:28 2013 -0700 : Merge branch 'master' into header-font-size-vars
+Mark Otto, Fri Aug 23 13:46:40 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Aug 23 13:46:28 2013 -0700 : fixes #10087: add version number to all docs pages in footer
+Mark Otto, Fri Aug 23 10:47:36 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Fri Aug 23 10:44:13 2013 -0700 : fixes #9877: improve active state on nav list items in theme
+Mark Otto, Fri Aug 23 10:36:37 2013 -0700 : fixes #9879: add hover state to theme buttons
+Mark Otto, Thu Aug 22 23:25:26 2013 -0700 : fixes #9880: use correct grid classes on jumbotron example
+Mark Otto, Thu Aug 22 23:19:49 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Thu Aug 22 23:18:45 2013 -0700 : add blog link to homepage
+Mark Otto, Thu Aug 22 19:26:18 2013 -0700 : Merge pull request #10012 from twbs/david-badge
+Mark Otto, Thu Aug 22 19:23:21 2013 -0700 : Merge pull request #10040 from twbs/pull-navbar-docs
+Mark Otto, Wed Aug 21 15:12:55 2013 -0700 : Always wrap form examples in .bs-example; add some missing role='form'
+Mark Otto, Wed Aug 21 14:30:27 2013 -0700 : Merge branch 'master' of github.com:twbs/bootstrap
+Mark Otto, Wed Aug 21 14:25:49 2013 -0700 : Merge pull request #10006 from jodytate/master
